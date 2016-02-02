@@ -1,0 +1,2116 @@
+torredebabel	APPLICATION	make	F861_6968	C1\ap861.c
+wel	WEL_FILE_CONSTANTS	generic_read	F904_7419	C2\we904.c
+wel	WEL_FILE_CONSTANTS	generic_write	F904_7420	C2\we904.c
+wel	WEL_FILE_CONSTANTS	generic_execute	F904_7421	C2\we904.c
+wel	WEL_FILE_CONSTANTS	generic_all	F904_7422	C2\we904.c
+wel	WEL_FILE_CONSTANTS	create_new	F904_7423	C2\we904.c
+wel	WEL_FILE_CONSTANTS	create_always	F904_7424	C2\we904.c
+wel	WEL_FILE_CONSTANTS	open_existing	F904_7425	C2\we904.c
+wel	WEL_FILE_CONSTANTS	open_always	F904_7426	C2\we904.c
+wel	WEL_FILE_CONSTANTS	truncate_existing	F904_7427	C2\we904.c
+wel	WEL_FILE_CONSTANTS	file_attribute_normal	F904_7428	C2\we904.c
+wel	WEL_FILE_CONSTANTS	file_attribute_temporary	F904_7429	C2\we904.c
+wel	WEL_FILE_CONSTANTS	file_share_read	F904_7430	C2\we904.c
+wel	WEL_FILE_CONSTANTS	file_share_write	F904_7431	C2\we904.c
+wel	WEL_FILE_CONSTANTS	file_flag_write_through	F904_7432	C2\we904.c
+wel	WEL_FILE_CONSTANTS	file_flag_no_buffering	F904_7433	C2\we904.c
+wel	WEL_FILE_CONSTANTS	file_begin	F904_7434	C2\we904.c
+wel	WEL_FILE_CONSTANTS	file_current	F904_7435	C2\we904.c
+wel	WEL_FILE_CONSTANTS	file_end	F904_7436	C2\we904.c
+wel	WEL_API	window_from_point	F905_7437	C2\we905.c
+wel	WEL_API	child_window_from_point	F905_7438	C2\we905.c
+wel	WEL_API	set_foreground_window	F905_7439	C2\we905.c
+wel	WEL_API	set_window_text	F905_7440	C2\we905.c
+wel	WEL_API	get_window_text	F905_7441	C2\we905.c
+wel	WEL_API	set_parent	F905_7442	C2\we905.c
+wel	WEL_API	move_window	F905_7443	C2\we905.c
+wel	WEL_API	set_window_pos	F905_7444	C2\we905.c
+wel	WEL_API	begin_defer_window_pos	F905_7445	C2\we905.c
+wel	WEL_API	defer_window_pos	F905_7446	C2\we905.c
+wel	WEL_API	end_defer_window_pos	F905_7447	C2\we905.c
+wel	WEL_API	get_focus	F905_7448	C2\we905.c
+wel	WEL_API	get_parent	F905_7449	C2\we905.c
+wel	WEL_API	get_window	F905_7450	C2\we905.c
+wel	WEL_API	destroy_window	F905_7451	C2\we905.c
+wel	WEL_API	find_window	F905_7452	C2\we905.c
+wel	WEL_API	find_window_ex	F905_7453	C2\we905.c
+wel	WEL_API	loword	F905_7454	C2\we905.c
+wel	WEL_API	hiword	F905_7455	C2\we905.c
+wel	WEL_API	makelong	F905_7456	C2\we905.c
+wel	WEL_API	lparam	F905_7457	C2\we905.c
+wel	WEL_API	wparam	F905_7458	C2\we905.c
+wel	WEL_API	lresult	F905_7459	C2\we905.c
+wel	WEL_API	monitor_from_rect	F905_7460	C2\we905.c
+wel	WEL_API	monitor_from_window	F905_7461	C2\we905.c
+wel	WEL_API	get_monitor_info	F905_7462	C2\we905.c
+wel	WEL_API	get_caret_pos	F905_7463	C2\we905.c
+wel	WEL_API	exclude_clip_rect	F905_7464	C2\we905.c
+wel	WEL_API	end_dialog	F905_7465	C2\we905.c
+wel	WEL_API	set_menu	F905_7466	C2\we905.c
+wel	WEL_API	track_popup_menu	F905_7467	C2\we905.c
+wel	WEL_API	get_menu	F905_7468	C2\we905.c
+wel	WEL_API	get_menu_bar_info	F905_7469	C2\we905.c
+wel	WEL_API	get_menu_item_rect	F905_7470	C2\we905.c
+wel	WEL_API	set_window_long	F905_7471	C2\we905.c
+wel	WEL_API	get_window_long	F905_7472	C2\we905.c
+wel	WEL_API	post_message_result	F905_7473	C2\we905.c
+wel	WEL_API	post_message	F905_7474	C2\we905.c
+wel	WEL_API	post_thread_message	F905_7475	C2\we905.c
+wel	WEL_API	register_window_message	F905_7476	C2\we905.c
+wel	WEL_API	send_message_result	F905_7477	C2\we905.c
+wel	WEL_API	send_message_result_integer	F905_7478	C2\we905.c
+wel	WEL_API	send_message_result_boolean	F905_7479	C2\we905.c
+wel	WEL_API	send_message	F905_7480	C2\we905.c
+wel	WEL_API	send_message_timeout	F905_7481	C2\we905.c
+wel	WEL_API	drag_query_file	F905_7482	C2\we905.c
+wel	WEL_API	create_process	F905_7483	C2\we905.c
+wel	WEL_API	duplicate_handle	F905_7484	C2\we905.c
+wel	WEL_API	close_handle	F905_7485	C2\we905.c
+wel	WEL_API	get_current_process	F905_7486	C2\we905.c
+wel	WEL_API	wait_for_input_idle	F905_7487	C2\we905.c
+wel	WEL_API	wait_for_single_object	F905_7488	C2\we905.c
+wel	WEL_API	msg_wait_for_multiple_objects	F905_7489	C2\we905.c
+wel	WEL_API	msg_wait_for_multiple_objects_ex	F905_7490	C2\we905.c
+wel	WEL_API	wait_object_0	F905_7491	C2\we905.c
+wel	WEL_API	infinite	F905_7492	C2\we905.c
+wel	WEL_API	get_exit_code_process	F905_7493	C2\we905.c
+wel	WEL_API	terminate_process	F905_7494	C2\we905.c
+wel	WEL_API	still_active	F905_7495	C2\we905.c
+wel	WEL_API	resume_thread	F905_7496	C2\we905.c
+wel	WEL_API	console_input_code_page	F905_7497	C2\we905.c
+wel	WEL_API	console_output_code_page	F905_7498	C2\we905.c
+wel	WEL_API	set_console_input_code_page	F905_7499	C2\we905.c
+wel	WEL_API	set_console_output_code_page	F905_7500	C2\we905.c
+wel	WEL_API	get_system_metrics	F905_7501	C2\we905.c
+wel	WEL_API	set_control_scroll_info	F905_7502	C2\we905.c
+wel	WEL_API	get_control_scroll_info	F905_7503	C2\we905.c
+wel	WEL_API	get_scroll_info	F905_7504	C2\we905.c
+wel	WEL_API	shell_notify_icon	F905_7505	C2\we905.c
+wel	WEL_API	get_default_printer	F905_7506	C2\we905.c
+wel	WEL_API	open_printer	F905_7507	C2\we905.c
+wel	WEL_API	get_printer	F905_7508	C2\we905.c
+wel	WEL_API	close_printer	F905_7509	C2\we905.c
+wel	WEL_API	vk_key_scan	F905_7510	C2\we905.c
+wel	WEL_API	get_last_error	F905_7511	C2\we905.c
+wel	WEL_API	load_module	F905_7512	C2\we905.c
+wel	WEL_API	free_module	F905_7513	C2\we905.c
+wel	WEL_API	load_api	F905_7514	C2\we905.c
+classic_mswin	FILE_HANDLE	open_file_inheritable	F906_7515	C2\fi906.c
+classic_mswin	FILE_HANDLE	create_file_inheritable	F906_7516	C2\fi906.c
+classic_mswin	FILE_HANDLE	create_pipe_write_inheritable	F906_7517	C2\fi906.c
+classic_mswin	FILE_HANDLE	create_pipe_read_inheritable	F906_7518	C2\fi906.c
+classic_mswin	FILE_HANDLE	last_write_successful	F906_7519	C2\fi906.c
+classic_mswin	FILE_HANDLE	last_read_successful	F906_7520	C2\fi906.c
+classic_mswin	FILE_HANDLE	last_string	F906_7521	C2\fi906.c
+classic_mswin	FILE_HANDLE	last_written_bytes	F906_7522	C2\fi906.c
+classic_mswin	FILE_HANDLE	last_read_bytes	F906_7523	C2\fi906.c
+classic_mswin	FILE_HANDLE	close	F906_7524	C2\fi906.c
+classic_mswin	FILE_HANDLE	read_stream	F906_7525	C2\fi906.c
+classic_mswin	FILE_HANDLE	read_line	F906_7526	C2\fi906.c
+classic_mswin	FILE_HANDLE	duplicate_handle	F906_7527	C2\fi906.c
+classic_mswin	FILE_HANDLE	flush	F906_7528	C2\fi906.c
+classic_mswin	FILE_HANDLE	put_string	F906_7529	C2\fi906.c
+classic_mswin	FILE_HANDLE	display_error	F906_7530	C2\fi906.c
+classic_mswin	FILE_HANDLE	cwin_create_pipe	F906_7531	C2\fi906.c
+classic_mswin	FILE_HANDLE	cwin_create_file	F906_7532	C2\fi906.c
+classic_mswin	FILE_HANDLE	cwin_read_file	F906_7533	C2\fi906.c
+classic_mswin	FILE_HANDLE	cwin_write_file	F906_7534	C2\fi906.c
+classic_mswin	FILE_HANDLE	cwin_close_handle	F906_7535	C2\fi906.c
+classic_mswin	FILE_HANDLE	cwin_flush_file_buffers	F906_7536	C2\fi906.c
+classic_mswin	FILE_HANDLE	cwin_set_file_pointer	F906_7537	C2\fi906.c
+process	PROCESS_REDIRECTION_CONSTANTS	to_stream	F907_7538	C2\pr907.c
+process	PROCESS_REDIRECTION_CONSTANTS	to_file	F907_7539	C2\pr907.c
+process	PROCESS_REDIRECTION_CONSTANTS	to_agent	F907_7540	C2\pr907.c
+process	PROCESS_REDIRECTION_CONSTANTS	no_redirection	F907_7541	C2\pr907.c
+process	PROCESS_REDIRECTION_CONSTANTS	to_same_as_output	F907_7542	C2\pr907.c
+process	PROCESS_FACTORY	process_launcher	F908_7543	C2\pr908.c
+process	PROCESS_FACTORY	process_launcher_with_command_line	F908_7544	C2\pr908.c
+process	PROCESS_FACTORY	current_process_info	F908_7545	C2\pr908.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	make	F909_7546	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	last_exit_code	F909_7547	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	process	F909_7548	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	mutex	F909_7549	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	consumer_signal	F909_7550	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	producer_signal	F909_7551	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	next_output	F909_7552	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	output_processor	F909_7553	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	error_processor	F909_7554	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	output_file	F909_7555	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	error_file	F909_7556	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	input_file	F909_7557	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	is_running	F909_7558	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	is_next_error	F909_7559	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	is_finished	F909_7560	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	launch	F909_7561	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	set_finished	F909_7562	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	redirect_input	F909_7563	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	redirect_output	F909_7564	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	append_output	F909_7565	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	prepare_redirection	F909_7566	C2\eq909.c
+testing	EQA_SYSTEM_EXECUTION_PROCESS	cleanup_redirection	F909_7567	C2\eq909.c
+testing	EQA_SYSTEM_OUTPUT_PROCESSOR	initialize_buffer	F910_7568	C2\eq910.c
+testing	EQA_SYSTEM_OUTPUT_PROCESSOR	buffer	F910_7569	C2\eq910.c
+testing	EQA_SYSTEM_OUTPUT_PROCESSOR	is_per_character	F910_7570	C2\eq910.c
+testing	EQA_SYSTEM_OUTPUT_PROCESSOR	on_new_character	F910_7571	C2\eq910.c
+testing	EQA_SYSTEM_OUTPUT_PROCESSOR	on_new_line	F910_7572	C2\eq910.c
+testing	EQA_SYSTEM_OUTPUT_PROCESSOR	append_output	F910_7573	C2\eq910.c
+testing	EQA_SYSTEM_OUTPUT_PROCESSOR	flush_buffer	F910_7574	C2\eq910.c
+testing	EQA_SYSTEM_OUTPUT_PROCESSOR	default_buffer_size	F910_7575	C2\eq910.c
+abstract	PACKET	make	F911_7576	C2\pa911.c
+abstract	PACKET	make_from_managed_pointer	F911_7577	C2\pa911.c
+abstract	PACKET	count	F911_7578	C2\pa911.c
+abstract	PACKET	element	F911_7579	C2\pa911.c
+abstract	PACKET	at	F911_7580	C2\pa911.c
+abstract	PACKET	valid_position	F911_7581	C2\pa911.c
+abstract	PACKET	put_element	F911_7582	C2\pa911.c
+abstract	PACKET	is_equal	F911_7583	C2\pa911.c
+abstract	PACKET	copy	F911_7584	C2\pa911.c
+abstract	PACKET	data	F911_7585	C2\pa911.c
+testing	EQA_SYSTEM_PATH	make_empty	F913_7588	C2\eq913.c
+testing	EQA_SYSTEM_PATH	make	F913_7589	C2\eq913.c
+testing	EQA_SYSTEM_PATH	make_from_path	F913_7590	C2\eq913.c
+testing	EQA_SYSTEM_PATH	make_from_path_object	F913_7591	C2\eq913.c
+testing	EQA_SYSTEM_PATH	count	F913_7592	C2\eq913.c
+testing	EQA_SYSTEM_PATH	item	F913_7593	C2\eq913.c
+testing	EQA_SYSTEM_PATH	at	F913_7594	C2\eq913.c
+testing	EQA_SYSTEM_PATH	items	F913_7595	C2\eq913.c
+testing	EQA_SYSTEM_PATH	is_empty	F913_7596	C2\eq913.c
+testing	EQA_SYSTEM_PATH	is_equal	F913_7597	C2\eq913.c
+testing	EQA_SYSTEM_PATH	is_valid_name	F913_7598	C2\eq913.c
+testing	EQA_SYSTEM_PATH	has_valid_names	F913_7599	C2\eq913.c
+testing	EQA_SYSTEM_PATH	extend	F913_7600	C2\eq913.c
+testing	EQA_SYSTEM_PATH	default_names_count	F913_7601	C2\eq913.c
+time	C_DATE	default_create	F914_7602	C2\c_914.c
+time	C_DATE	make_utc	F914_7603	C2\c_914.c
+time	C_DATE	is_utc	F914_7604	C2\c_914.c
+time	C_DATE	update	F914_7605	C2\c_914.c
+time	C_DATE	year_now	F914_7606	C2\c_914.c
+time	C_DATE	month_now	F914_7607	C2\c_914.c
+time	C_DATE	day_now	F914_7608	C2\c_914.c
+time	C_DATE	hour_now	F914_7609	C2\c_914.c
+time	C_DATE	minute_now	F914_7610	C2\c_914.c
+time	C_DATE	second_now	F914_7611	C2\c_914.c
+time	C_DATE	millisecond_now	F914_7612	C2\c_914.c
+time	C_DATE	ftime	F914_7613	C2\c_914.c
+time	C_DATE	timeb_structure_size	F914_7614	C2\c_914.c
+time	C_DATE	time_t_structure_size	F914_7615	C2\c_914.c
+time	C_DATE	tm_structure_size	F914_7616	C2\c_914.c
+time	C_DATE	get_millitm	F914_7617	C2\c_914.c
+time	C_DATE	get_time	F914_7618	C2\c_914.c
+time	C_DATE	internal_item	F914_7619	C2\c_914.c
+time	C_DATE	localtime	F914_7620	C2\c_914.c
+time	C_DATE	gmtime	F914_7621	C2\c_914.c
+time	C_DATE	get_tm_year	F914_7622	C2\c_914.c
+time	C_DATE	get_tm_mon	F914_7623	C2\c_914.c
+time	C_DATE	get_tm_mday	F914_7624	C2\c_914.c
+time	C_DATE	get_tm_hour	F914_7625	C2\c_914.c
+time	C_DATE	get_tm_min	F914_7626	C2\c_914.c
+time	C_DATE	get_tm_sec	F914_7627	C2\c_914.c
+testing	EQA_FILE_SYSTEM	make	F915_7628	C2\eq915.c
+testing	EQA_FILE_SYSTEM	asserter	F915_7629	C2\eq915.c
+testing	EQA_FILE_SYSTEM	copy_file	F915_7630	C2\eq915.c
+testing	EQA_FILE_SYSTEM	build_path	F915_7631	C2\eq915.c
+testing	EQA_FILE_SYSTEM	build_path_from_key	F915_7632	C2\eq915.c
+testing	EQA_FILE_SYSTEM	build_source_path	F915_7633	C2\eq915.c
+testing	EQA_FILE_SYSTEM	build_target_path	F915_7634	C2\eq915.c
+testing	EQA_FILE_SYSTEM	has_same_content_as_string	F915_7635	C2\eq915.c
+testing	EQA_FILE_SYSTEM	has_same_content_as_path	F915_7636	C2\eq915.c
+testing	EQA_FILE_SYSTEM	executable_file_exists	F915_7637	C2\eq915.c
+testing	EQA_FILE_SYSTEM	build_partial_path	F915_7638	C2\eq915.c
+testing	EQA_FILE_SYSTEM	delete_directory_tree	F915_7639	C2\eq915.c
+testing	EQA_FILE_SYSTEM	assert	F915_7640	C2\eq915.c
+testing	EQA_FILE_SYSTEM	source_directory_key	F915_7641	C2\eq915.c
+testing	EQA_FILE_SYSTEM	target_directory_key	F915_7642	C2\eq915.c
+testing	EQA_ASSERTIONS	assert	F916_7643	C2\eq916.c
+testing	EQA_ASSERTIONS	disassert	F916_7644	C2\eq916.c
+testing	EQA_ASSERTIONS	on_violation	F916_7645	C2\eq916.c
+testing	EQA_ASSERTIONS	on_satisfaction	F916_7646	C2\eq916.c
+testing	EQA_ASSERTIONS	last_assertion_failed	F916_7647	C2\eq916.c
+testing	EQA_TEST_INVOCATION_RESPONSE	make	F917_7648	C2\eq917.c
+testing	EQA_TEST_INVOCATION_RESPONSE	make_exceptional	F917_7649	C2\eq917.c
+testing	EQA_TEST_INVOCATION_RESPONSE	exception	F917_7650	C2\eq917.c
+testing	EQA_TEST_INVOCATION_RESPONSE	internal_exception	F917_7651	C2\eq917.c
+testing	EQA_TEST_INVOCATION_RESPONSE	is_exceptional	F917_7652	C2\eq917.c
+testing	EQA_ENVIRONMENT	item	F918_7653	C2\eq918.c
+testing	EQA_ENVIRONMENT	item_attached	F918_7654	C2\eq918.c
+testing	EQA_ENVIRONMENT	item_not_empty	F918_7655	C2\eq918.c
+testing	EQA_ENVIRONMENT	get	F918_7656	C2\eq918.c
+testing	EQA_ENVIRONMENT	get_attached	F918_7657	C2\eq918.c
+testing	EQA_ENVIRONMENT	get_not_empty	F918_7658	C2\eq918.c
+testing	EQA_ENVIRONMENT	table	F918_7659	C2\eq918.c
+testing	EQA_ENVIRONMENT	put	F918_7660	C2\eq918.c
+testing	EQA_ENVIRONMENT	reset	F918_7661	C2\eq918.c
+testing	EQA_ENVIRONMENT	is_identifier_char	F918_7662	C2\eq918.c
+testing	EQA_ENVIRONMENT	substitute_recursive	F918_7663	C2\eq918.c
+testing	EQA_ENVIRONMENT	substitute	F918_7664	C2\eq918.c
+testing	EQA_ENVIRONMENT	default_table_size	F918_7665	C2\eq918.c
+testing	EQA_ENVIRONMENT	substitute_char	F918_7666	C2\eq918.c
+testing	EQA_ENVIRONMENT	left_group_char	F918_7667	C2\eq918.c
+testing	EQA_ENVIRONMENT	right_group_char	F918_7668	C2\eq918.c
+kernel	KL_ANY_ROUTINES	same_types	F863_7000	C1\kl863.c
+kernel	KL_ANY_ROUTINES	same_objects	F863_7001	C1\kl863.c
+kernel	KL_ANY_ROUTINES	equal_objects	F863_7002	C1\kl863.c
+kernel	KL_ANY_ROUTINES	to_any	F863_7003	C1\kl863.c
+kernel	KL_EQUALITY_TESTER [G#1]	test	F888_7004	C1\kl888.c
+kernel	KL_SPECIAL_ROUTINES [INTEGER_32]	make	F870_7005	C1\kl870.c
+kernel	KL_SPECIAL_ROUTINES [INTEGER_32]	make_filled	F870_7006	C1\kl870.c
+kernel	KL_SPECIAL_ROUTINES [INTEGER_32]	make_from_array	F870_7007	C1\kl870.c
+kernel	KL_SPECIAL_ROUTINES [INTEGER_32]	to_special	F870_7008	C1\kl870.c
+kernel	KL_SPECIAL_ROUTINES [INTEGER_32]	has	F870_7009	C1\kl870.c
+kernel	KL_SPECIAL_ROUTINES [INTEGER_32]	force	F870_7010	C1\kl870.c
+kernel	KL_SPECIAL_ROUTINES [INTEGER_32]	keep_head	F870_7011	C1\kl870.c
+kernel	KL_SPECIAL_ROUTINES [INTEGER_32]	resize	F870_7012	C1\kl870.c
+kernel	KL_SPECIAL_ROUTINES [INTEGER_32]	aliased_resized_area	F870_7013	C1\kl870.c
+kernel	KL_SPECIAL_ROUTINES [INTEGER_32]	aliased_resized_area_with_default	F870_7014	C1\kl870.c
+kernel	KL_SPECIAL_ROUTINES [BOOLEAN]	make	F873_7005	C1\kl873.c
+kernel	KL_SPECIAL_ROUTINES [BOOLEAN]	make_filled	F873_7006	C1\kl873.c
+kernel	KL_SPECIAL_ROUTINES [BOOLEAN]	make_from_array	F873_7007	C1\kl873.c
+kernel	KL_SPECIAL_ROUTINES [BOOLEAN]	to_special	F873_7008	C1\kl873.c
+kernel	KL_SPECIAL_ROUTINES [BOOLEAN]	has	F873_7009	C1\kl873.c
+kernel	KL_SPECIAL_ROUTINES [BOOLEAN]	force	F873_7010	C1\kl873.c
+kernel	KL_SPECIAL_ROUTINES [BOOLEAN]	keep_head	F873_7011	C1\kl873.c
+kernel	KL_SPECIAL_ROUTINES [BOOLEAN]	resize	F873_7012	C1\kl873.c
+kernel	KL_SPECIAL_ROUTINES [BOOLEAN]	aliased_resized_area	F873_7013	C1\kl873.c
+kernel	KL_SPECIAL_ROUTINES [BOOLEAN]	aliased_resized_area_with_default	F873_7014	C1\kl873.c
+kernel	KL_SPECIAL_ROUTINES [G#1]	make	F899_7005	C2\kl899.c
+kernel	KL_SPECIAL_ROUTINES [G#1]	make_filled	F899_7006	C2\kl899.c
+kernel	KL_SPECIAL_ROUTINES [G#1]	make_from_array	F899_7007	C2\kl899.c
+kernel	KL_SPECIAL_ROUTINES [G#1]	to_special	F899_7008	C2\kl899.c
+kernel	KL_SPECIAL_ROUTINES [G#1]	has	F899_7009	C2\kl899.c
+kernel	KL_SPECIAL_ROUTINES [G#1]	force	F899_7010	C2\kl899.c
+kernel	KL_SPECIAL_ROUTINES [G#1]	keep_head	F899_7011	C2\kl899.c
+kernel	KL_SPECIAL_ROUTINES [G#1]	resize	F899_7012	C2\kl899.c
+kernel	KL_SPECIAL_ROUTINES [G#1]	aliased_resized_area	F899_7013	C2\kl899.c
+kernel	KL_SPECIAL_ROUTINES [G#1]	aliased_resized_area_with_default	F899_7014	C2\kl899.c
+kernel	KL_SPECIAL_ROUTINES [CHARACTER_8]	make	F901_7005	C2\kl901.c
+kernel	KL_SPECIAL_ROUTINES [CHARACTER_8]	make_filled	F901_7006	C2\kl901.c
+kernel	KL_SPECIAL_ROUTINES [CHARACTER_8]	make_from_array	F901_7007	C2\kl901.c
+kernel	KL_SPECIAL_ROUTINES [CHARACTER_8]	to_special	F901_7008	C2\kl901.c
+kernel	KL_SPECIAL_ROUTINES [CHARACTER_8]	has	F901_7009	C2\kl901.c
+kernel	KL_SPECIAL_ROUTINES [CHARACTER_8]	force	F901_7010	C2\kl901.c
+kernel	KL_SPECIAL_ROUTINES [CHARACTER_8]	keep_head	F901_7011	C2\kl901.c
+kernel	KL_SPECIAL_ROUTINES [CHARACTER_8]	resize	F901_7012	C2\kl901.c
+kernel	KL_SPECIAL_ROUTINES [CHARACTER_8]	aliased_resized_area	F901_7013	C2\kl901.c
+kernel	KL_SPECIAL_ROUTINES [CHARACTER_8]	aliased_resized_area_with_default	F901_7014	C2\kl901.c
+wel	WEL_SW_CONSTANTS	sw_hide	F919_7669	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_minimize	F919_7670	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_restore	F919_7671	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_shownormal	F919_7672	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_show	F919_7673	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_showmaximized	F919_7674	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_showminimized	F919_7675	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_showminnoactive	F919_7676	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_showna	F919_7677	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_shownoactivate	F919_7678	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_parentclosing	F919_7679	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_parentopening	F919_7680	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_otherzoom	F919_7681	C2\we919.c
+wel	WEL_SW_CONSTANTS	sw_otherunzoom	F919_7682	C2\we919.c
+wel	WEL_PROCESS_CREATION_CONSTANTS	create_default_error_mode	F920_7683	C2\we920.c
+wel	WEL_PROCESS_CREATION_CONSTANTS	create_new_console	F920_7684	C2\we920.c
+wel	WEL_PROCESS_CREATION_CONSTANTS	create_new_process_group	F920_7685	C2\we920.c
+wel	WEL_PROCESS_CREATION_CONSTANTS	create_no_window	F920_7686	C2\we920.c
+wel	WEL_PROCESS_CREATION_CONSTANTS	detached_process	F920_7687	C2\we920.c
+wel	WEL_PROCESS_CREATION_CONSTANTS	create_unicode_environment	F920_7688	C2\we920.c
+wel	WEL_PROCESS_CREATION_CONSTANTS	create_suspended	F920_7689	C2\we920.c
+wel	WEL_PROCESS_CREATION_CONSTANTS	is_valid_creation_constant	F920_7690	C2\we920.c
+wel	WEL_FILL_ATTRIBUTES_CONSTANTS	foreground_blue	F921_7691	C2\we921.c
+wel	WEL_FILL_ATTRIBUTES_CONSTANTS	foreground_green	F921_7692	C2\we921.c
+wel	WEL_FILL_ATTRIBUTES_CONSTANTS	foreground_red	F921_7693	C2\we921.c
+wel	WEL_FILL_ATTRIBUTES_CONSTANTS	foreground_intensity	F921_7694	C2\we921.c
+wel	WEL_FILL_ATTRIBUTES_CONSTANTS	background_blue	F921_7695	C2\we921.c
+wel	WEL_FILL_ATTRIBUTES_CONSTANTS	background_green	F921_7696	C2\we921.c
+wel	WEL_FILL_ATTRIBUTES_CONSTANTS	background_red	F921_7697	C2\we921.c
+wel	WEL_FILL_ATTRIBUTES_CONSTANTS	background_intensity	F921_7698	C2\we921.c
+wel	WEL_FILL_ATTRIBUTES_CONSTANTS	is_valid_fill_attributes	F921_7699	C2\we921.c
+wel	WEL_BIT_OPERATIONS	set_flag	F922_7700	C2\we922.c
+wel	WEL_BIT_OPERATIONS	clear_flag	F922_7701	C2\we922.c
+wel	WEL_BIT_OPERATIONS	flag_set	F922_7702	C2\we922.c
+classic_mswin	WEL_PROCESS_TOOLHELP_CONSTANTS	cwin_process_all_access	F923_7703	C2\we923.c
+classic_mswin	WEL_PROCESS_TOOLHELP_CONSTANTS	cwin_process_terminate	F923_7704	C2\we923.c
+classic_mswin	WEL_PROCESS_TOOLHELP_CONSTANTS	cwin_process_create_process	F923_7705	C2\we923.c
+classic_mswin	WEL_PROCESS_TOOLHELP_CONSTANTS	cwin_process_dup_handle	F923_7706	C2\we923.c
+classic_mswin	WEL_PROCESS_TOOLHELP_CONSTANTS	cwin_process_query_information	F923_7707	C2\we923.c
+classic_mswin	WEL_PROCESS_TOOLHELP_CONSTANTS	cwin_process_set_quota	F923_7708	C2\we923.c
+classic_mswin	WEL_PROCESS_TOOLHELP_CONSTANTS	cwin_process_set_information	F923_7709	C2\we923.c
+classic_mswin	WEL_PROCESS_TOOLHELP_CONSTANTS	cwin_process_vm_operation	F923_7710	C2\we923.c
+classic_mswin	WEL_PROCESS_TOOLHELP_CONSTANTS	cwin_process_vm_read	F923_7711	C2\we923.c
+classic_mswin	WEL_PROCESS_TOOLHELP_CONSTANTS	cwin_process_vm_write	F923_7712	C2\we923.c
+classic_mswin	WEL_PROCESS_TOOLHELP_CONSTANTS	cwin_process_synchronize	F923_7713	C2\we923.c
+classic_mswin	PROCESS_UTILITY	process_id_pair_list	F924_7714	C2\pr924.c
+classic_mswin	PROCESS_UTILITY	check_nt_platform	F924_7715	C2\pr924.c
+classic_mswin	PROCESS_UTILITY	toolhelp_handle	F924_7716	C2\pr924.c
+classic_mswin	PROCESS_UTILITY	ntps_handle	F924_7717	C2\pr924.c
+classic_mswin	PROCESS_UTILITY	ntdll_handle	F924_7718	C2\pr924.c
+classic_mswin	PROCESS_UTILITY	cwin_create_toolhelp32_snapshot	F924_7719	C2\pr924.c
+classic_mswin	PROCESS_UTILITY	cwin_process32_first	F924_7720	C2\pr924.c
+classic_mswin	PROCESS_UTILITY	cwin_process32_next	F924_7721	C2\pr924.c
+classic_mswin	PROCESS_UTILITY	cwin_get_process_id_and_parent_id	F924_7722	C2\pr924.c
+classic_mswin	PROCESS_UTILITY	cwin_nt_get_parent_id	F924_7723	C2\pr924.c
+classic_mswin	PROCESS_UTILITY	cwin_nt_get_process_list	F924_7724	C2\pr924.c
+classic_mswin	PROCESS_UTILITY	cwin_open_process	F924_7725	C2\pr924.c
+process	PROCESS_TIMER	set_process_launcher	F925_7729	C2\pr925.c
+process	PROCESS_TIMER	has_started	F925_7730	C2\pr925.c
+process	PROCESS_TIMER	destroyed	F925_7731	C2\pr925.c
+process	PROCESS_TIMER	sleep_time	F925_7733	C2\pr925.c
+process	PROCESS_TIMER	process_launcher	F925_7734	C2\pr925.c
+process	PROCESS_TIMER	one_millisecond_in_nanoseconds	F925_7735	C2\pr925.c
+process	PROCESS	redirect_input_to_stream	F926_7738	C3\pr926.c
+process	PROCESS	redirect_input_to_file	F926_7739	C3\pr926.c
+process	PROCESS	cancel_input_redirection	F926_7740	C3\pr926.c
+process	PROCESS	redirect_output_to_file	F926_7741	C3\pr926.c
+process	PROCESS	redirect_output_to_agent	F926_7742	C3\pr926.c
+process	PROCESS	cancel_output_redirection	F926_7743	C3\pr926.c
+process	PROCESS	redirect_error_to_file	F926_7744	C3\pr926.c
+process	PROCESS	redirect_error_to_agent	F926_7745	C3\pr926.c
+process	PROCESS	redirect_error_to_same_as_output	F926_7746	C3\pr926.c
+process	PROCESS	cancel_error_redirection	F926_7747	C3\pr926.c
+process	PROCESS	enable_terminal_control	F926_7748	C3\pr926.c
+process	PROCESS	disable_terminal_control	F926_7749	C3\pr926.c
+process	PROCESS	set_buffer_size	F926_7756	C3\pr926.c
+process	PROCESS	set_timer	F926_7757	C3\pr926.c
+process	PROCESS	set_hidden	F926_7758	C3\pr926.c
+process	PROCESS	set_separate_console	F926_7759	C3\pr926.c
+process	PROCESS	set_detached_console	F926_7760	C3\pr926.c
+process	PROCESS	set_abort_termination_when_failed	F926_7761	C3\pr926.c
+process	PROCESS	set_environment_variable_table	F926_7762	C3\pr926.c
+process	PROCESS	set_environment_variables	F926_7763	C3\pr926.c
+process	PROCESS	set_environment_variable_use_unicode	F926_7764	C3\pr926.c
+process	PROCESS	set_on_start_handler	F926_7765	C3\pr926.c
+process	PROCESS	set_on_exit_handler	F926_7766	C3\pr926.c
+process	PROCESS	set_on_terminate_handler	F926_7767	C3\pr926.c
+process	PROCESS	set_on_fail_launch_handler	F926_7768	C3\pr926.c
+process	PROCESS	set_on_successful_launch_handler	F926_7769	C3\pr926.c
+process	PROCESS	enable_launch_in_new_process_group	F926_7770	C3\pr926.c
+process	PROCESS	disable_launch_in_new_process_group	F926_7771	C3\pr926.c
+process	PROCESS	on_start	F926_7772	C3\pr926.c
+process	PROCESS	on_terminate	F926_7773	C3\pr926.c
+process	PROCESS	on_exit	F926_7774	C3\pr926.c
+process	PROCESS	on_launch_failed	F926_7775	C3\pr926.c
+process	PROCESS	on_launch_successed	F926_7776	C3\pr926.c
+process	PROCESS	platform	F926_7779	C3\pr926.c
+process	PROCESS	buffer_size	F926_7780	C3\pr926.c
+process	PROCESS	command_line	F926_7781	C3\pr926.c
+process	PROCESS	working_directory	F926_7782	C3\pr926.c
+process	PROCESS	input_file_name	F926_7783	C3\pr926.c
+process	PROCESS	output_file_name	F926_7784	C3\pr926.c
+process	PROCESS	error_file_name	F926_7785	C3\pr926.c
+process	PROCESS	input_direction	F926_7786	C3\pr926.c
+process	PROCESS	output_direction	F926_7787	C3\pr926.c
+process	PROCESS	error_direction	F926_7788	C3\pr926.c
+process	PROCESS	environment_variable_table	F926_7789	C3\pr926.c
+process	PROCESS	launched	F926_7790	C3\pr926.c
+process	PROCESS	is_running	F926_7791	C3\pr926.c
+process	PROCESS	abort_termination_when_failed	F926_7793	C3\pr926.c
+process	PROCESS	force_terminated	F926_7794	C3\pr926.c
+process	PROCESS	last_termination_successful	F926_7795	C3\pr926.c
+process	PROCESS	hidden	F926_7796	C3\pr926.c
+process	PROCESS	separate_console	F926_7797	C3\pr926.c
+process	PROCESS	detached_console	F926_7798	C3\pr926.c
+process	PROCESS	are_agents_valid	F926_7799	C3\pr926.c
+process	PROCESS	is_terminal_control_enabled	F926_7800	C3\pr926.c
+process	PROCESS	is_environment_variable_unicode	F926_7801	C3\pr926.c
+process	PROCESS	is_launched_in_new_process_group	F926_7802	C3\pr926.c
+process	PROCESS	is_last_wait_timeout	F926_7803	C3\pr926.c
+process	PROCESS	is_input_redirection_valid	F926_7804	C3\pr926.c
+process	PROCESS	is_output_redirection_valid	F926_7805	C3\pr926.c
+process	PROCESS	is_error_redirection_valid	F926_7806	C3\pr926.c
+process	PROCESS	output_handler	F926_7807	C3\pr926.c
+process	PROCESS	error_handler	F926_7808	C3\pr926.c
+process	PROCESS	on_start_handler	F926_7809	C3\pr926.c
+process	PROCESS	on_exit_handler	F926_7810	C3\pr926.c
+process	PROCESS	on_terminate_handler	F926_7811	C3\pr926.c
+process	PROCESS	on_fail_launch_handler	F926_7812	C3\pr926.c
+process	PROCESS	on_successful_launch_handler	F926_7813	C3\pr926.c
+process	PROCESS	arguments	F926_7814	C3\pr926.c
+process	PROCESS	timer	F926_7815	C3\pr926.c
+process	PROCESS	initialize_working_directory	F926_7816	C3\pr926.c
+process	PROCESS	initial_buffer_size	F926_7817	C3\pr926.c
+process	PROCESS	initial_time_interval	F926_7818	C3\pr926.c
+process	PROCESS	initialize_parameter	F926_7819	C3\pr926.c
+process	PROCESS	parameter_initialized	F926_7820	C3\pr926.c
+process	PROCESS	is_separator	F926_7821	C3\pr926.c
+process	PROCESS	separated_words	F926_7822	C3\pr926.c
+classic_mswin	PROCESS_IMP	make	F927_7823	C3\pr927.c
+classic_mswin	PROCESS_IMP	make_with_command_line	F927_7824	C3\pr927.c
+classic_mswin	PROCESS_IMP	launch	F927_7825	C3\pr927.c
+classic_mswin	PROCESS_IMP	terminate	F927_7826	C3\pr927.c
+classic_mswin	PROCESS_IMP	terminate_tree	F927_7827	C3\pr927.c
+classic_mswin	PROCESS_IMP	wait_for_exit	F927_7828	C3\pr927.c
+classic_mswin	PROCESS_IMP	wait_for_exit_with_timeout	F927_7829	C3\pr927.c
+classic_mswin	PROCESS_IMP	wait_for_input	F927_7830	C3\pr927.c
+classic_mswin	PROCESS_IMP	put_string	F927_7831	C3\pr927.c
+classic_mswin	PROCESS_IMP	id	F927_7832	C3\pr927.c
+classic_mswin	PROCESS_IMP	has_exited	F927_7833	C3\pr927.c
+classic_mswin	PROCESS_IMP	exit_code	F927_7834	C3\pr927.c
+classic_mswin	PROCESS_IMP	check_exit	F927_7835	C3\pr927.c
+classic_mswin	PROCESS_IMP	input_buffer	F927_7836	C3\pr927.c
+classic_mswin	PROCESS_IMP	append_input_buffer	F927_7837	C3\pr927.c
+classic_mswin	PROCESS_IMP	last_output_bytes	F927_7838	C3\pr927.c
+classic_mswin	PROCESS_IMP	last_error_bytes	F927_7839	C3\pr927.c
+classic_mswin	PROCESS_IMP	last_input_bytes	F927_7840	C3\pr927.c
+classic_mswin	PROCESS_IMP	write_input_stream	F927_7841	C3\pr927.c
+classic_mswin	PROCESS_IMP	read_output_stream	F927_7842	C3\pr927.c
+classic_mswin	PROCESS_IMP	read_error_stream	F927_7843	C3\pr927.c
+classic_mswin	PROCESS_IMP	cwin_peek_named_pipe	F927_7844	C3\pr927.c
+classic_mswin	PROCESS_IMP	initialize_child_process	F927_7845	C3\pr927.c
+classic_mswin	PROCESS_IMP	initialize_after_launch	F927_7846	C3\pr927.c
+classic_mswin	PROCESS_IMP	start_listening_threads	F927_7847	C3\pr927.c
+classic_mswin	PROCESS_IMP	try_terminate_process	F927_7848	C3\pr927.c
+classic_mswin	PROCESS_IMP	terminate_process_by_id	F927_7849	C3\pr927.c
+classic_mswin	PROCESS_IMP	direct_subprocess_list	F927_7850	C3\pr927.c
+classic_mswin	PROCESS_IMP	terminate_sub_tree	F927_7851	C3\pr927.c
+classic_mswin	PROCESS_IMP	adjust_debug_privilege	F927_7852	C3\pr927.c
+classic_mswin	PROCESS_IMP	cwin_se_privilege_enabled	F927_7853	C3\pr927.c
+classic_mswin	PROCESS_IMP	out_thread	F927_7854	C3\pr927.c
+classic_mswin	PROCESS_IMP	err_thread	F927_7855	C3\pr927.c
+classic_mswin	PROCESS_IMP	in_thread	F927_7856	C3\pr927.c
+classic_mswin	PROCESS_IMP	child_process	F927_7857	C3\pr927.c
+classic_mswin	PROCESS_IMP	process_has_exited	F927_7858	C3\pr927.c
+classic_mswin	PROCESS_IMP	internal_has_exited	F927_7859	C3\pr927.c
+classic_mswin	PROCESS_IMP	has_cleaned_up	F927_7860	C3\pr927.c
+classic_mswin	PROCESS_IMP	debug_privilege_enabled	F927_7861	C3\pr927.c
+classic_mswin	PROCESS_IMP	input_mutex	F927_7862	C3\pr927.c
+classic_mswin	PROCESS_IMP	input_file_handle	F927_7863	C3\pr927.c
+classic_mswin	PROCESS_IMP	output_file_handle	F927_7864	C3\pr927.c
+classic_mswin	PROCESS_IMP	error_file_handle	F927_7865	C3\pr927.c
+classic_mswin	PROCESS_IMP	internal_id	F927_7866	C3\pr927.c
+time	DATE_TIME_TOOLS	name	F929_7875	C3\da929.c
+time	DATE_TIME_TOOLS	days_text	F929_7876	C3\da929.c
+time	DATE_TIME_TOOLS	months_text	F929_7877	C3\da929.c
+time	DATE_TIME_TOOLS	long_days_text	F929_7878	C3\da929.c
+time	DATE_TIME_TOOLS	long_months_text	F929_7879	C3\da929.c
+time	DATE_TIME_TOOLS	date_default_format_string	F929_7880	C3\da929.c
+time	DATE_TIME_TOOLS	time_default_format_string	F929_7881	C3\da929.c
+time	DATE_TIME_TOOLS	default_format_string	F929_7882	C3\da929.c
+testing	EQA_EXECUTION	make	F930_7883	C3\eq930.c
+testing	EQA_EXECUTION	test_set	F930_7884	C3\eq930.c
+testing	EQA_EXECUTION	command	F930_7885	C3\eq930.c
+testing	EQA_EXECUTION	working_directory	F930_7886	C3\eq930.c
+testing	EQA_EXECUTION	output_file_name	F930_7887	C3\eq930.c
+testing	EQA_EXECUTION	error_file_name	F930_7888	C3\eq930.c
+testing	EQA_EXECUTION	input_file_name	F930_7889	C3\eq930.c
+testing	EQA_EXECUTION	output_processor	F930_7890	C3\eq930.c
+testing	EQA_EXECUTION	error_processor	F930_7891	C3\eq930.c
+testing	EQA_EXECUTION	exit_code	F930_7892	C3\eq930.c
+testing	EQA_EXECUTION	file_system	F930_7893	C3\eq930.c
+testing	EQA_EXECUTION	arguments	F930_7894	C3\eq930.c
+testing	EQA_EXECUTION	process	F930_7895	C3\eq930.c
+testing	EQA_EXECUTION	last_exit_code	F930_7896	C3\eq930.c
+testing	EQA_EXECUTION	is_launched	F930_7897	C3\eq930.c
+testing	EQA_EXECUTION	has_exited	F930_7898	C3\eq930.c
+testing	EQA_EXECUTION	set_working_directory	F930_7899	C3\eq930.c
+testing	EQA_EXECUTION	set_output_path	F930_7900	C3\eq930.c
+testing	EQA_EXECUTION	set_output_file_name	F930_7901	C3\eq930.c
+testing	EQA_EXECUTION	set_output_file_path	F930_7902	C3\eq930.c
+testing	EQA_EXECUTION	set_error_path	F930_7903	C3\eq930.c
+testing	EQA_EXECUTION	set_error_file_name	F930_7904	C3\eq930.c
+testing	EQA_EXECUTION	set_error_file_path	F930_7905	C3\eq930.c
+testing	EQA_EXECUTION	set_input_path	F930_7906	C3\eq930.c
+testing	EQA_EXECUTION	set_input_file_name	F930_7907	C3\eq930.c
+testing	EQA_EXECUTION	set_input_file_path	F930_7908	C3\eq930.c
+testing	EQA_EXECUTION	set_output_processor	F930_7909	C3\eq930.c
+testing	EQA_EXECUTION	set_error_processor	F930_7910	C3\eq930.c
+testing	EQA_EXECUTION	launch	F930_7911	C3\eq930.c
+testing	EQA_EXECUTION	process_output	F930_7912	C3\eq930.c
+testing	EQA_EXECUTION	process_output_until_exit	F930_7913	C3\eq930.c
+testing	EQA_EXECUTION	put_string	F930_7914	C3\eq930.c
+testing	EQA_EXECUTION	clear_argument	F930_7915	C3\eq930.c
+testing	EQA_EXECUTION	add_argument	F930_7916	C3\eq930.c
+testing	EQA_EXECUTION	output_directory	F930_7917	C3\eq930.c
+testing	EQA_EXECUTION	cleanup_process	F930_7918	C3\eq930.c
+testing	EQA_EXECUTION	assert	F930_7919	C3\eq930.c
+testing	EQA_EXECUTION	output_path_key	F930_7920	C3\eq930.c
+testing	EQA_EXECUTION	default_output_directory	F930_7921	C3\eq930.c
+testing	EQA_EXECUTION	default_argument_count	F930_7922	C3\eq930.c
+testing	EQA_SYSTEM_EXECUTION	make	F931_7923	C3\eq931.c
+testing	EQA_SYSTEM_EXECUTION	system_executable_key	F931_7924	C3\eq931.c
+abstract	SOCKET_ADDRESS	make	F932_7925	C3\so932.c
+abstract	SOCKET_ADDRESS	make_from_separate	F932_7926	C3\so932.c
+abstract	SOCKET_ADDRESS	socket_address	F932_7927	C3\so932.c
+abstract	SOCKET_ADDRESS	count	F932_7928	C3\so932.c
+abstract	SOCKET_ADDRESS	is_equal	F932_7929	C3\so932.c
+abstract	SOCKET_ADDRESS	family	F932_7930	C3\so932.c
+abstract	SOCKET_ADDRESS	set_family	F932_7931	C3\so932.c
+abstract	SOCKET_ADDRESS	copy	F932_7932	C3\so932.c
+abstract	SOCKET_ADDRESS	address_size	F932_7933	C3\so932.c
+abstract	SOCKET_ADDRESS	set_sock_family	F932_7934	C3\so932.c
+abstract	SOCKET_ADDRESS	get_sock_family	F932_7935	C3\so932.c
+abstract	SOCKET_ADDRESS	set_sock_data	F932_7936	C3\so932.c
+abstract	SOCKET_ADDRESS	get_sock_data	F932_7937	C3\so932.c
+network	ADDRINFO	af_inet	F934_7943	C3\ad934.c
+network	ADDRINFO	af_inet6	F934_7944	C3\ad934.c
+etf	ITP_SHARED_CONSTANTS	start_request_flag	F935_7953	C3\it935.c
+etf	ITP_SHARED_CONSTANTS	quit_request_flag	F935_7954	C3\it935.c
+etf	ITP_SHARED_CONSTANTS	execute_request_flag	F935_7955	C3\it935.c
+etf	ITP_SHARED_CONSTANTS	type_request_flag	F935_7956	C3\it935.c
+etf	ITP_SHARED_CONSTANTS	normal_response_flag	F935_7957	C3\it935.c
+etf	ITP_SHARED_CONSTANTS	invariant_violation_on_entry_response_flag	F935_7958	C3\it935.c
+etf	ITP_SHARED_CONSTANTS	internal_error_respones_flag	F935_7959	C3\it935.c
+testing	EQA_TEST_SET	default_create	F936_7960	C3\eq936.c
+testing	EQA_TEST_SET	asserter	F936_7961	C3\eq936.c
+testing	EQA_TEST_SET	file_system	F936_7962	C3\eq936.c
+testing	EQA_TEST_SET	environment	F936_7963	C3\eq936.c
+testing	EQA_TEST_SET	current_test_name	F936_7964	C3\eq936.c
+testing	EQA_TEST_SET	is_prepared	F936_7965	C3\eq936.c
+testing	EQA_TEST_SET	has_failed	F936_7966	C3\eq936.c
+testing	EQA_TEST_SET	set_asserter	F936_7967	C3\eq936.c
+testing	EQA_TEST_SET	clean	F936_7968	C3\eq936.c
+testing	EQA_TEST_SET	assert_32	F936_7969	C3\eq936.c
+testing	EQA_TEST_SET	assert	F936_7970	C3\eq936.c
+testing	EQA_TEST_SET	on_prepare	F936_7971	C3\eq936.c
+testing	EQA_TEST_SET	on_clean	F936_7972	C3\eq936.c
+testing	EQA_TEST_SET	internal_asserter	F936_7973	C3\eq936.c
+testing	EQA_TEST_SET	new_asserter	F936_7974	C3\eq936.c
+testing	EQA_TEST_SET	new_file_system	F936_7975	C3\eq936.c
+testing	EQA_TEST_SET	test_name_key	F936_7976	C3\eq936.c
+testing	EQA_TEST_SET	testing_directory_key	F936_7977	C3\eq936.c
+testing	EQA_TEST_SET	target_path_key	F936_7978	C3\eq936.c
+testing	EQA_SYSTEM_TEST_SET	current_execution	F937_7979	C3\eq937.c
+testing	EQA_SYSTEM_TEST_SET	compare_output	F937_7980	C3\eq937.c
+testing	EQA_SYSTEM_TEST_SET	compare_output_with_file	F937_7981	C3\eq937.c
+testing	EQA_SYSTEM_TEST_SET	prepare_system	F937_7982	C3\eq937.c
+testing	EQA_SYSTEM_TEST_SET	run_system	F937_7983	C3\eq937.c
+testing	EQA_SYSTEM_TEST_SET	on_prepare_frozen	F937_7984	C3\eq937.c
+testing	EQA_SYSTEM_TEST_SET	on_clean_frozen	F937_7985	C3\eq937.c
+testing	EQA_SYSTEM_TEST_SET	on_prepare	F937_7986	C3\eq937.c
+testing	EQA_SYSTEM_TEST_SET	on_clean	F937_7987	C3\eq937.c
+testing	EQA_SYSTEM_TEST_SET	source_path_key	F937_7988	C3\eq937.c
+testing	EQA_SYSTEM_TEST_SET	inline-agent#1 of run_system	F937_9465	C3\eq937.c
+kernel	KL_IMPORTED_SPECIAL_ROUTINES	special_any_	F864_7016	C1\kl864.c
+kernel	KL_IMPORTED_SPECIAL_ROUTINES	special_boolean_	F864_7017	C1\kl864.c
+kernel	KL_IMPORTED_SPECIAL_ROUTINES	special_character_	F864_7018	C1\kl864.c
+kernel	KL_IMPORTED_SPECIAL_ROUTINES	special_integer_	F864_7019	C1\kl864.c
+kernel	KL_IMPORTED_SPECIAL_ROUTINES	special_string_	F864_7020	C1\kl864.c
+wel	WEL_STARTUP_CONSTANTS	startf_use_show_window	F938_7989	C3\we938.c
+wel	WEL_STARTUP_CONSTANTS	startf_use_position	F938_7990	C3\we938.c
+wel	WEL_STARTUP_CONSTANTS	startf_use_size	F938_7991	C3\we938.c
+wel	WEL_STARTUP_CONSTANTS	startf_use_count_chars	F938_7992	C3\we938.c
+wel	WEL_STARTUP_CONSTANTS	startf_use_fill_attributes	F938_7993	C3\we938.c
+wel	WEL_STARTUP_CONSTANTS	startf_force_on_feedback	F938_7994	C3\we938.c
+wel	WEL_STARTUP_CONSTANTS	startf_force_off_feedback	F938_7995	C3\we938.c
+wel	WEL_STARTUP_CONSTANTS	startf_use_std_handles	F938_7996	C3\we938.c
+wel	WEL_STARTUP_CONSTANTS	is_valid_startup_flag	F938_7997	C3\we938.c
+wel	WEL_STARTUP_CONSTANTS	is_valid_startup_flags	F938_7998	C3\we938.c
+thread	THREAD_ENVIRONMENT	current_thread_id	F939_7999	C3\th939.c
+thread	THREAD_ENVIRONMENT	get_current_id	F939_8000	C3\th939.c
+thread	THREAD_CONTROL	join_all	F940_8001	C3\th940.c
+thread	THREAD_CONTROL	yield	F940_8002	C3\th940.c
+thread	THREAD	make	F941_8003	C3\th941.c
+thread	THREAD	thread_id	F941_8004	C3\th941.c
+thread	THREAD	terminated	F941_8005	C3\th941.c
+thread	THREAD	launch	F941_8007	C3\th941.c
+thread	THREAD	launch_with_attributes	F941_8008	C3\th941.c
+thread	THREAD	exit	F941_8009	C3\th941.c
+thread	THREAD	sleep	F941_8010	C3\th941.c
+thread	THREAD	is_exit_supported	F941_8011	C3\th941.c
+thread	THREAD	is_launchable	F941_8012	C3\th941.c
+thread	THREAD	is_last_launch_successful	F941_8013	C3\th941.c
+thread	THREAD	join	F941_8014	C3\th941.c
+thread	THREAD	join_with_timeout	F941_8015	C3\th941.c
+thread	THREAD	thr_main	F941_8016	C3\th941.c
+thread	THREAD	launch_mutex	F941_8017	C3\th941.c
+thread	THREAD	is_last_launch_successful_cell	F941_8018	C3\th941.c
+thread	THREAD	create_thread_with_attr	F941_8019	C3\th941.c
+thread	THREAD	thread_wait	F941_8020	C3\th941.c
+thread	THREAD	thread_wait_with_timeout	F941_8021	C3\th941.c
+thread	THREAD	last_created_thread	F941_8022	C3\th941.c
+process	PROCESS_IO_LISTENER_THREAD	set_exit_signal	F942_8023	C3\pr942.c
+process	PROCESS_IO_LISTENER_THREAD	set_sleep_time	F942_8024	C3\pr942.c
+process	PROCESS_IO_LISTENER_THREAD	should_thread_exit	F942_8025	C3\pr942.c
+process	PROCESS_IO_LISTENER_THREAD	process_launcher	F942_8026	C3\pr942.c
+process	PROCESS_IO_LISTENER_THREAD	should_exit_signal	F942_8027	C3\pr942.c
+process	PROCESS_IO_LISTENER_THREAD	mutex	F942_8028	C3\pr942.c
+process	PROCESS_IO_LISTENER_THREAD	sleep_time	F942_8029	C3\pr942.c
+process	PROCESS_IO_LISTENER_THREAD	initial_sleep_time	F942_8030	C3\pr942.c
+process	PROCESS_IO_LISTENER_THREAD	one_millisecond_in_nanoseconds	F942_8031	C3\pr942.c
+time	TIME_UTILITY	mod	F943_8032	C3\ti943.c
+time	TIME_UTILITY	div	F943_8033	C3\ti943.c
+time	TIME_UTILITY	date_time_tools	F943_8034	C3\ti943.c
+time	TIME_UTILITY	default_format_string	F943_8035	C3\ti943.c
+time	TIME_CONSTANTS	seconds_in_minute	F944_8036	C3\ti944.c
+time	TIME_CONSTANTS	seconds_in_hour	F944_8037	C3\ti944.c
+time	TIME_CONSTANTS	seconds_in_day	F944_8038	C3\ti944.c
+time	TIME_CONSTANTS	minutes_in_hour	F944_8039	C3\ti944.c
+time	TIME_CONSTANTS	hours_in_day	F944_8040	C3\ti944.c
+time	TIME_CONSTANTS	time_default_format_string	F944_8041	C3\ti944.c
+time	TIME_VALUE	hour	F946_8051	C3\ti946.c
+time	TIME_VALUE	minute	F946_8052	C3\ti946.c
+time	TIME_VALUE	second	F946_8053	C3\ti946.c
+time	TIME_VALUE	fractional_second	F946_8054	C3\ti946.c
+time	TIME_VALUE	compact_time	F946_8055	C3\ti946.c
+time	TIME_VALUE	fine_second	F946_8056	C3\ti946.c
+time	TIME_VALUE	milli_second	F946_8057	C3\ti946.c
+time	TIME_VALUE	micro_second	F946_8058	C3\ti946.c
+time	TIME_VALUE	nano_second	F946_8059	C3\ti946.c
+time	TIME_VALUE	set_hour	F946_8060	C3\ti946.c
+time	TIME_VALUE	set_minute	F946_8061	C3\ti946.c
+time	TIME_VALUE	set_second	F946_8062	C3\ti946.c
+time	TIME_VALUE	set_fine_second	F946_8063	C3\ti946.c
+time	TIME_VALUE	set_fractionals	F946_8064	C3\ti946.c
+time	TIME_VALUE	hour_mask	F946_8065	C3\ti946.c
+time	TIME_VALUE	minute_mask	F946_8066	C3\ti946.c
+time	TIME_VALUE	second_mask	F946_8067	C3\ti946.c
+time	TIME_VALUE	hour_shift	F946_8068	C3\ti946.c
+time	TIME_VALUE	minute_shift	F946_8069	C3\ti946.c
+time	DATE_CONSTANTS	days_in_week	F947_8070	C3\da947.c
+time	DATE_CONSTANTS	max_weeks_in_year	F947_8071	C3\da947.c
+time	DATE_CONSTANTS	months_in_year	F947_8072	C3\da947.c
+time	DATE_CONSTANTS	days_in_leap_year	F947_8073	C3\da947.c
+time	DATE_CONSTANTS	days_in_non_leap_year	F947_8074	C3\da947.c
+time	DATE_CONSTANTS	days_in_i_th_month	F947_8075	C3\da947.c
+time	DATE_CONSTANTS	date_default_format_string	F947_8076	C3\da947.c
+time	DATE_CONSTANTS	days_text	F947_8077	C3\da947.c
+time	DATE_CONSTANTS	months_text	F947_8078	C3\da947.c
+time	DATE_CONSTANTS	long_days_text	F947_8079	C3\da947.c
+time	DATE_CONSTANTS	long_months_text	F947_8080	C3\da947.c
+time	DATE_CONSTANTS	i_th_leap_year	F947_8081	C3\da947.c
+time	DATE_CONSTANTS	is_leap_year	F947_8082	C3\da947.c
+time	DATE_CONSTANTS	days_in_months	F947_8083	C3\da947.c
+time	DATE_MEASUREMENT	days_in_month	F948_8091	C3\da948.c
+time	DATE_TIME_MEASUREMENT	year	F949_8094	C3\da949.c
+time	DATE_TIME_MEASUREMENT	month	F949_8095	C3\da949.c
+time	DATE_TIME_MEASUREMENT	day	F949_8096	C3\da949.c
+time	DATE_TIME_MEASUREMENT	hour	F949_8097	C3\da949.c
+time	DATE_TIME_MEASUREMENT	minute	F949_8098	C3\da949.c
+time	DATE_TIME_MEASUREMENT	second	F949_8099	C3\da949.c
+time	DATE_TIME_MEASUREMENT	fine_second	F949_8100	C3\da949.c
+time	DATE_TIME_VALUE	date	F950_8101	C3\da950.c
+time	DATE_TIME_VALUE	time	F950_8102	C3\da950.c
+time	DATE_TIME_VALUE	fractional_second	F950_8103	C3\da950.c
+time	CODE_VALIDITY_CHECKER	is_code	F951_8104	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_day	F951_8105	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_day0	F951_8106	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_day_text	F951_8107	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_year4	F951_8108	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_year2	F951_8109	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_month	F951_8110	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_month0	F951_8111	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_month_text	F951_8112	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_hour	F951_8113	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_hour0	F951_8114	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_hour12	F951_8115	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_hour12_0	F951_8116	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_minute	F951_8117	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_minute0	F951_8118	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_second	F951_8119	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_second0	F951_8120	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_fractional_second	F951_8121	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_colon	F951_8122	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_slash	F951_8123	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_minus	F951_8124	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_comma	F951_8125	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_space	F951_8126	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_dot	F951_8127	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_separator	F951_8128	C3\co951.c
+time	CODE_VALIDITY_CHECKER	is_meridiem	F951_8129	C3\co951.c
+network	INET_PROPERTIES	is_ipv6_available	F953_8131	C3\in953.c
+network	INET_PROPERTIES	is_ipv4_stack_preferred	F953_8132	C3\in953.c
+network	INET_PROPERTIES	set_ipv4_stack_preferred	F953_8133	C3\in953.c
+network	INET_ADDRESS_IMPL_V6	local_host_name	F955_8137	C3\in955.c
+network	INET_ADDRESS_IMPL_V6	any_local_address	F955_8138	C3\in955.c
+network	INET_ADDRESS_IMPL_V6	loopback_address	F955_8139	C3\in955.c
+network	INET_ADDRESS_IMPL_V6	get_local_host_name	F955_8140	C3\in955.c
+network	INET_ADDRESS_IMPL_V4	local_host_name	F956_8141	C3\in956.c
+network	INET_ADDRESS_IMPL_V4	any_local_address	F956_8142	C3\in956.c
+network	INET_ADDRESS_IMPL_V4	loopback_address	F956_8143	C3\in956.c
+network	INET_ADDRESS_IMPL_V4	get_local_host_name	F956_8144	C3\in956.c
+etf	ERL_CONSTANTS	none_type_name	F957_8145	C3\er957.c
+etf	ITP_CONSTANT	make	F958_8146	C3\it958.c
+etf	ITP_CONSTANT	value	F958_8147	C3\it958.c
+etf	ITP_CONSTANT	type_name	F958_8148	C3\it958.c
+etf	ITP_CONSTANT	process	F958_8149	C3\it958.c
+network	INET_ADDRESS	ipv4	F959_8150	C4\in959.c
+network	INET_ADDRESS	ipv6	F959_8151	C4\in959.c
+network	INET_ADDRESS	family	F959_8152	C4\in959.c
+network	INET_ADDRESS	is_equivalent	F959_8153	C4\in959.c
+network	INET_ADDRESS	host_name	F959_8163	C4\in959.c
+network	INET_ADDRESS	internal_host_name	F959_8167	C4\in959.c
+network	INET_ADDRESS	sockaddr_size	F959_8168	C4\in959.c
+network	INET6_ADDRESS	inaddrsz	F960_8169	C4\in960.c
+network	INET6_ADDRESS	make_from_host_and_address	F960_8170	C4\in960.c
+network	INET6_ADDRESS	make_from_host_and_address_and_interface_name	F960_8171	C4\in960.c
+network	INET6_ADDRESS	make_from_host_and_address_and_scope	F960_8172	C4\in960.c
+network	INET6_ADDRESS	make_from_host_and_pointer	F960_8173	C4\in960.c
+network	INET6_ADDRESS	host_address	F960_8174	C4\in960.c
+network	INET6_ADDRESS	is_multicast_address	F960_8175	C4\in960.c
+network	INET6_ADDRESS	is_any_local_address	F960_8176	C4\in960.c
+network	INET6_ADDRESS	is_loopback_address	F960_8177	C4\in960.c
+network	INET6_ADDRESS	is_link_local_address	F960_8178	C4\in960.c
+network	INET6_ADDRESS	is_site_local_address	F960_8179	C4\in960.c
+network	INET6_ADDRESS	is_mc_global	F960_8180	C4\in960.c
+network	INET6_ADDRESS	is_mc_node_local	F960_8181	C4\in960.c
+network	INET6_ADDRESS	is_mc_link_local	F960_8182	C4\in960.c
+network	INET6_ADDRESS	is_mc_site_local	F960_8183	C4\in960.c
+network	INET6_ADDRESS	is_mc_org_local	F960_8184	C4\in960.c
+network	INET6_ADDRESS	raw_address	F960_8185	C4\in960.c
+network	INET6_ADDRESS	sockaddr	F960_8186	C4\in960.c
+network	INET6_ADDRESS	the_address	F960_8187	C4\in960.c
+network	INET6_ADDRESS	the_scope_id	F960_8188	C4\in960.c
+network	INET6_ADDRESS	the_scope_ifname	F960_8189	C4\in960.c
+network	INET6_ADDRESS	is_scope_ifname_set	F960_8190	C4\in960.c
+network	INET6_ADDRESS	is_scope_id_set	F960_8191	C4\in960.c
+network	INET6_ADDRESS	numeric_to_text	F960_8192	C4\in960.c
+network	INET6_ADDRESS	fill_ipv6	F960_8193	C4\in960.c
+network	INET6_ADDRESS	c_sockaddr_get_ipv6_address	F960_8194	C4\in960.c
+network	INET6_ADDRESS	c_sockaddr_get_ipv6_address_scope	F960_8195	C4\in960.c
+network	INET6_ADDRESS	c_get_addr_element	F960_8196	C4\in960.c
+network	INET4_ADDRESS	inaddrsz	F961_8197	C4\in961.c
+network	INET4_ADDRESS	make_from_host_and_address	F961_8198	C4\in961.c
+network	INET4_ADDRESS	make_from_host_and_pointer	F961_8199	C4\in961.c
+network	INET4_ADDRESS	host_address	F961_8200	C4\in961.c
+network	INET4_ADDRESS	is_multicast_address	F961_8201	C4\in961.c
+network	INET4_ADDRESS	is_any_local_address	F961_8202	C4\in961.c
+network	INET4_ADDRESS	is_loopback_address	F961_8203	C4\in961.c
+network	INET4_ADDRESS	is_link_local_address	F961_8204	C4\in961.c
+network	INET4_ADDRESS	is_site_local_address	F961_8205	C4\in961.c
+network	INET4_ADDRESS	is_mc_global	F961_8206	C4\in961.c
+network	INET4_ADDRESS	is_mc_node_local	F961_8207	C4\in961.c
+network	INET4_ADDRESS	is_mc_link_local	F961_8208	C4\in961.c
+network	INET4_ADDRESS	is_mc_site_local	F961_8209	C4\in961.c
+network	INET4_ADDRESS	is_mc_org_local	F961_8210	C4\in961.c
+network	INET4_ADDRESS	raw_address	F961_8211	C4\in961.c
+network	INET4_ADDRESS	sockaddr	F961_8212	C4\in961.c
+network	INET4_ADDRESS	the_address	F961_8213	C4\in961.c
+network	INET4_ADDRESS	numeric_to_text	F961_8214	C4\in961.c
+network	INET4_ADDRESS	fill_ipv4	F961_8215	C4\in961.c
+network	INET4_ADDRESS	c_sockaddr_get_ipv4_address	F961_8216	C4\in961.c
+etf	EQA_EXTERNALS	invoke_routine	F962_8217	C4\eq962.c
+etf	EQA_EXTERNALS	override_byte_code_of_body	F962_8218	C4\eq962.c
+etf	ITP_STORE	make	F963_8219	C4\it963.c
+etf	ITP_STORE	is_variable_defined	F963_8220	C4\it963.c
+etf	ITP_STORE	is_expression_defined	F963_8221	C4\it963.c
+etf	ITP_STORE	variable_value	F963_8222	C4\it963.c
+etf	ITP_STORE	expression_value	F963_8223	C4\it963.c
+etf	ITP_STORE	assign_value	F963_8224	C4\it963.c
+etf	ITP_STORE	assign_expression	F963_8225	C4\it963.c
+etf	ITP_STORE	arguments	F963_8226	C4\it963.c
+etf	ITP_STORE	storage	F963_8227	C4\it963.c
+etf	ITP_STORE	storage_flag	F963_8228	C4\it963.c
+etf	ITP_STORE	default_capacity	F963_8229	C4\it963.c
+abstract	SOCKET_RESOURCES	error	F964_8230	C4\so964.c
+abstract	SOCKET_RESOURCES	error_number	F964_8231	C4\so964.c
+abstract	SOCKET_RESOURCES	socket_ok	F964_8232	C4\so964.c
+abstract	SOCKET_RESOURCES	socket_family_not_supported	F964_8233	C4\so964.c
+abstract	SOCKET_RESOURCES	address_not_readable	F964_8234	C4\so964.c
+abstract	SOCKET_RESOURCES	protected_address	F964_8235	C4\so964.c
+abstract	SOCKET_RESOURCES	already_bound	F964_8236	C4\so964.c
+abstract	SOCKET_RESOURCES	address_in_use	F964_8237	C4\so964.c
+abstract	SOCKET_RESOURCES	invalid_address	F964_8238	C4\so964.c
+abstract	SOCKET_RESOURCES	invalid_socket_handle	F964_8239	C4\so964.c
+abstract	SOCKET_RESOURCES	bad_socket_handle	F964_8240	C4\so964.c
+abstract	SOCKET_RESOURCES	no_permission	F964_8241	C4\so964.c
+abstract	SOCKET_RESOURCES	no_buffers	F964_8242	C4\so964.c
+abstract	SOCKET_RESOURCES	dtable_full	F964_8243	C4\so964.c
+abstract	SOCKET_RESOURCES	protocol_not_supported	F964_8244	C4\so964.c
+abstract	SOCKET_RESOURCES	not_connected	F964_8245	C4\so964.c
+abstract	SOCKET_RESOURCES	socket_would_block	F964_8246	C4\so964.c
+abstract	SOCKET_RESOURCES	connect_in_progress	F964_8247	C4\so964.c
+abstract	SOCKET_RESOURCES	socket_in_use	F964_8248	C4\so964.c
+abstract	SOCKET_RESOURCES	expired_socket	F964_8249	C4\so964.c
+abstract	SOCKET_RESOURCES	connection_refused	F964_8250	C4\so964.c
+abstract	SOCKET_RESOURCES	network	F964_8251	C4\so964.c
+abstract	SOCKET_RESOURCES	zero_option	F964_8252	C4\so964.c
+abstract	SOCKET_RESOURCES	c_oobmsg	F964_8253	C4\so964.c
+abstract	SOCKET_RESOURCES	c_peekmsg	F964_8254	C4\so964.c
+abstract	SOCKET_RESOURCES	c_msgdontroute	F964_8255	C4\so964.c
+abstract	SOCKET_RESOURCES	level_sol_socket	F964_8256	C4\so964.c
+abstract	SOCKET_RESOURCES	level_nsproto_raw	F964_8257	C4\so964.c
+abstract	SOCKET_RESOURCES	level_nsproto_pe	F964_8258	C4\so964.c
+abstract	SOCKET_RESOURCES	level_nsproto_spp	F964_8259	C4\so964.c
+abstract	SOCKET_RESOURCES	level_iproto_tcp	F964_8260	C4\so964.c
+abstract	SOCKET_RESOURCES	level_iproto_ip	F964_8261	C4\so964.c
+abstract	SOCKET_RESOURCES	ipoptions	F964_8262	C4\so964.c
+abstract	SOCKET_RESOURCES	tcpmax_seg	F964_8263	C4\so964.c
+abstract	SOCKET_RESOURCES	tcpno_delay	F964_8264	C4\so964.c
+abstract	SOCKET_RESOURCES	so_headerson_input	F964_8265	C4\so964.c
+abstract	SOCKET_RESOURCES	so_headerson_output	F964_8266	C4\so964.c
+abstract	SOCKET_RESOURCES	so_defaultheaders	F964_8267	C4\so964.c
+abstract	SOCKET_RESOURCES	so_lastheader	F964_8268	C4\so964.c
+abstract	SOCKET_RESOURCES	somtu	F964_8269	C4\so964.c
+abstract	SOCKET_RESOURCES	soseqno	F964_8270	C4\so964.c
+abstract	SOCKET_RESOURCES	so_allpackets	F964_8271	C4\so964.c
+abstract	SOCKET_RESOURCES	so_nsiproute	F964_8272	C4\so964.c
+abstract	SOCKET_RESOURCES	sobroadcast	F964_8273	C4\so964.c
+abstract	SOCKET_RESOURCES	sodebug	F964_8274	C4\so964.c
+abstract	SOCKET_RESOURCES	so_dont_route	F964_8275	C4\so964.c
+abstract	SOCKET_RESOURCES	soerror	F964_8276	C4\so964.c
+abstract	SOCKET_RESOURCES	so_keep_alive	F964_8277	C4\so964.c
+abstract	SOCKET_RESOURCES	solinger	F964_8278	C4\so964.c
+abstract	SOCKET_RESOURCES	so_oob_inline	F964_8279	C4\so964.c
+abstract	SOCKET_RESOURCES	so_rcv_buf	F964_8280	C4\so964.c
+abstract	SOCKET_RESOURCES	so_snd_buf	F964_8281	C4\so964.c
+abstract	SOCKET_RESOURCES	so_rcv_lowat	F964_8282	C4\so964.c
+abstract	SOCKET_RESOURCES	so_snd_lowat	F964_8283	C4\so964.c
+abstract	SOCKET_RESOURCES	so_rcv_timeo	F964_8284	C4\so964.c
+abstract	SOCKET_RESOURCES	so_snd_timeo	F964_8285	C4\so964.c
+abstract	SOCKET_RESOURCES	so_reuse_addr	F964_8286	C4\so964.c
+abstract	SOCKET_RESOURCES	sotype	F964_8287	C4\so964.c
+abstract	SOCKET_RESOURCES	so_use_loopback	F964_8288	C4\so964.c
+abstract	SOCKET_RESOURCES	c_errorno	F964_8289	C4\so964.c
+abstract	SOCKET_RESOURCES	c_reset_error	F964_8290	C4\so964.c
+abstract	SOCKET_RESOURCES	family_no_support	F964_8291	C4\so964.c
+abstract	SOCKET_RESOURCES	proto_no_support	F964_8292	C4\so964.c
+abstract	SOCKET_RESOURCES	table_full	F964_8293	C4\so964.c
+abstract	SOCKET_RESOURCES	no_buffs	F964_8294	C4\so964.c
+abstract	SOCKET_RESOURCES	c_permission	F964_8295	C4\so964.c
+abstract	SOCKET_RESOURCES	bad_socket	F964_8296	C4\so964.c
+abstract	SOCKET_RESOURCES	no_socket	F964_8297	C4\so964.c
+abstract	SOCKET_RESOURCES	error_address	F964_8298	C4\so964.c
+abstract	SOCKET_RESOURCES	busy_address	F964_8299	C4\so964.c
+abstract	SOCKET_RESOURCES	bound_address	F964_8300	C4\so964.c
+abstract	SOCKET_RESOURCES	no_access	F964_8301	C4\so964.c
+abstract	SOCKET_RESOURCES	unreadable	F964_8302	C4\so964.c
+abstract	SOCKET_RESOURCES	no_connect	F964_8303	C4\so964.c
+abstract	SOCKET_RESOURCES	would_block	F964_8304	C4\so964.c
+abstract	SOCKET_RESOURCES	in_use	F964_8305	C4\so964.c
+abstract	SOCKET_RESOURCES	socket_expire	F964_8306	C4\so964.c
+abstract	SOCKET_RESOURCES	connect_refused	F964_8307	C4\so964.c
+abstract	SOCKET_RESOURCES	no_network	F964_8308	C4\so964.c
+abstract	SOCKET_RESOURCES	no_option	F964_8309	C4\so964.c
+abstract	SOCKET_RESOURCES	c_einprogress	F964_8310	C4\so964.c
+abstract	SOCKET_RESOURCES	sock_raw	F964_8311	C4\so964.c
+abstract	SOCKET_RESOURCES	sock_dgrm	F964_8312	C4\so964.c
+abstract	SOCKET_RESOURCES	sock_stream	F964_8313	C4\so964.c
+abstract	SOCKET_RESOURCES	af_ns	F964_8314	C4\so964.c
+abstract	SOCKET_RESOURCES	af_inet	F964_8315	C4\so964.c
+abstract	SOCKET_RESOURCES	af_inet6	F964_8316	C4\so964.c
+abstract	SOCKET_RESOURCES	af_unix	F964_8317	C4\so964.c
+abstract	SOCKET_RESOURCES	c_fgetown	F964_8318	C4\so964.c
+abstract	SOCKET_RESOURCES	c_fsetown	F964_8319	C4\so964.c
+abstract	SOCKET_RESOURCES	c_fsetfl	F964_8320	C4\so964.c
+abstract	SOCKET_RESOURCES	c_fgetfl	F964_8321	C4\so964.c
+abstract	SOCKET_RESOURCES	c_fndelay	F964_8322	C4\so964.c
+abstract	SOCKET_RESOURCES	c_fasync	F964_8323	C4\so964.c
+network	INET_ADDRESS_FACTORY	create_any_local	F965_8324	C4\in965.c
+network	INET_ADDRESS_FACTORY	create_loopback	F965_8325	C4\in965.c
+network	INET_ADDRESS_FACTORY	create_localhost	F965_8326	C4\in965.c
+network	INET_ADDRESS_FACTORY	create_from_name	F965_8327	C4\in965.c
+network	INET_ADDRESS_FACTORY	create_from_address	F965_8328	C4\in965.c
+network	INET_ADDRESS_FACTORY	create_from_sockaddr	F965_8329	C4\in965.c
+network	INET_ADDRESS_FACTORY	impl	F965_8330	C4\in965.c
+network	INET_ADDRESS_FACTORY	int16sz	F965_8331	C4\in965.c
+network	INET_ADDRESS_FACTORY	get_all_by_name	F965_8332	C4\in965.c
+network	INET_ADDRESS_FACTORY	check_numeric_zone	F965_8333	C4\in965.c
+network	INET_ADDRESS_FACTORY	text_to_numeric_format_v4	F965_8334	C4\in965.c
+network	INET_ADDRESS_FACTORY	text_to_numeric_format_v6	F965_8335	C4\in965.c
+network	INET_ADDRESS_FACTORY	convert_from_ipv4_mappedd_address	F965_8336	C4\in965.c
+network	INET_ADDRESS_FACTORY	is_ipv4_mapped_address	F965_8337	C4\in965.c
+network	INET_ADDRESS_FACTORY	hex_character_to_integer	F965_8338	C4\in965.c
+network	INET_ADDRESS_FACTORY	split	F965_8339	C4\in965.c
+network	INET_ADDRESS_FACTORY	dot_count	F965_8340	C4\in965.c
+network	INET_ADDRESS_FACTORY	get_all_by_name_0	F965_8341	C4\in965.c
+network	INET_ADDRESS_FACTORY	getaddrinfo	F965_8342	C4\in965.c
+network	INET_ADDRESS_FACTORY	c_getaddrinfo	F965_8343	C4\in965.c
+network	INET_ADDRESS_FACTORY	get_sock_family	F965_8344	C4\in965.c
+network	NETWORK_SOCKET_ADDRESS	make_from_address_and_port	F966_8345	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	make_from_hostname_and_port	F966_8346	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	make_any_local	F966_8347	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	make_localhost	F966_8348	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	make_loopback	F966_8349	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	port	F966_8350	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	host_address	F966_8351	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	is_valid_host	F966_8352	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	set_port_from_name	F966_8353	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	set_port	F966_8354	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	set_host_address	F966_8355	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	address_size	F966_8356	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	set_sock_family	F966_8357	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	get_sock_family	F966_8358	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	set_sock_port	F966_8359	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	get_sock_port	F966_8360	C4\ne966.c
+network	NETWORK_SOCKET_ADDRESS	get_servent_port	F966_8361	C4\ne966.c
+kernel	KL_IMPORTED_ANY_ROUTINES	any_	F865_7021	C1\kl865.c
+kernel	KL_ARRAY_ROUTINES [INTEGER_32]	make_from_array	F871_7022	C1\kl871.c
+kernel	KL_ARRAY_ROUTINES [INTEGER_32]	make_empty_with_lower	F871_7023	C1\kl871.c
+kernel	KL_ARRAY_ROUTINES [INTEGER_32]	has	F871_7024	C1\kl871.c
+kernel	KL_ARRAY_ROUTINES [INTEGER_32]	has_void	F871_7025	C1\kl871.c
+kernel	KL_ARRAY_ROUTINES [INTEGER_32]	subarray	F871_7026	C1\kl871.c
+kernel	KL_ARRAY_ROUTINES [INTEGER_32]	cloned_array	F871_7027	C1\kl871.c
+kernel	KL_ARRAY_ROUTINES [INTEGER_32]	subcopy	F871_7028	C1\kl871.c
+kernel	KL_ARRAY_ROUTINES [INTEGER_32]	resize	F871_7029	C1\kl871.c
+kernel	KL_ARRAY_ROUTINES [BOOLEAN]	make_from_array	F874_7022	C1\kl874.c
+kernel	KL_ARRAY_ROUTINES [BOOLEAN]	make_empty_with_lower	F874_7023	C1\kl874.c
+kernel	KL_ARRAY_ROUTINES [BOOLEAN]	has	F874_7024	C1\kl874.c
+kernel	KL_ARRAY_ROUTINES [BOOLEAN]	has_void	F874_7025	C1\kl874.c
+kernel	KL_ARRAY_ROUTINES [BOOLEAN]	subarray	F874_7026	C1\kl874.c
+kernel	KL_ARRAY_ROUTINES [BOOLEAN]	cloned_array	F874_7027	C1\kl874.c
+kernel	KL_ARRAY_ROUTINES [BOOLEAN]	subcopy	F874_7028	C1\kl874.c
+kernel	KL_ARRAY_ROUTINES [BOOLEAN]	resize	F874_7029	C1\kl874.c
+kernel	KL_ARRAY_ROUTINES [G#1]	make_from_array	F889_7022	C1\kl889.c
+kernel	KL_ARRAY_ROUTINES [G#1]	make_empty_with_lower	F889_7023	C1\kl889.c
+kernel	KL_ARRAY_ROUTINES [G#1]	has	F889_7024	C1\kl889.c
+kernel	KL_ARRAY_ROUTINES [G#1]	has_void	F889_7025	C1\kl889.c
+kernel	KL_ARRAY_ROUTINES [G#1]	subarray	F889_7026	C1\kl889.c
+kernel	KL_ARRAY_ROUTINES [G#1]	cloned_array	F889_7027	C1\kl889.c
+kernel	KL_ARRAY_ROUTINES [G#1]	subcopy	F889_7028	C1\kl889.c
+kernel	KL_ARRAY_ROUTINES [G#1]	resize	F889_7029	C1\kl889.c
+kernel	KL_ARRAY_ROUTINES [CHARACTER_8]	make_from_array	F902_7022	C2\kl902.c
+kernel	KL_ARRAY_ROUTINES [CHARACTER_8]	make_empty_with_lower	F902_7023	C2\kl902.c
+kernel	KL_ARRAY_ROUTINES [CHARACTER_8]	has	F902_7024	C2\kl902.c
+kernel	KL_ARRAY_ROUTINES [CHARACTER_8]	has_void	F902_7025	C2\kl902.c
+kernel	KL_ARRAY_ROUTINES [CHARACTER_8]	subarray	F902_7026	C2\kl902.c
+kernel	KL_ARRAY_ROUTINES [CHARACTER_8]	cloned_array	F902_7027	C2\kl902.c
+kernel	KL_ARRAY_ROUTINES [CHARACTER_8]	subcopy	F902_7028	C2\kl902.c
+kernel	KL_ARRAY_ROUTINES [CHARACTER_8]	resize	F902_7029	C2\kl902.c
+time	INTERVAL [G#1]	make	F1014_8362	C5\in1014.c
+time	INTERVAL [G#1]	start_bound	F1014_8363	C5\in1014.c
+time	INTERVAL [G#1]	end_bound	F1014_8364	C5\in1014.c
+time	INTERVAL [G#1]	duration	F1014_8365	C5\in1014.c
+time	INTERVAL [G#1]	is_equal	F1014_8366	C5\in1014.c
+time	INTERVAL [G#1]	intersects	F1014_8367	C5\in1014.c
+time	INTERVAL [G#1]	is_less	F1014_8368	C5\in1014.c
+time	INTERVAL [G#1]	is_less_equal	F1014_8369	C5\in1014.c
+time	INTERVAL [G#1]	is_greater	F1014_8370	C5\in1014.c
+time	INTERVAL [G#1]	is_greater_equal	F1014_8371	C5\in1014.c
+time	INTERVAL [G#1]	is_strict_included_by	F1014_8372	C5\in1014.c
+time	INTERVAL [G#1]	strict_includes	F1014_8373	C5\in1014.c
+time	INTERVAL [G#1]	is_included_by	F1014_8374	C5\in1014.c
+time	INTERVAL [G#1]	includes	F1014_8375	C5\in1014.c
+time	INTERVAL [G#1]	overlaps	F1014_8376	C5\in1014.c
+time	INTERVAL [G#1]	is_overlapped_by	F1014_8377	C5\in1014.c
+time	INTERVAL [G#1]	meets	F1014_8378	C5\in1014.c
+time	INTERVAL [G#1]	is_met_by	F1014_8379	C5\in1014.c
+time	INTERVAL [G#1]	empty	F1014_8380	C5\in1014.c
+time	INTERVAL [G#1]	has	F1014_8381	C5\in1014.c
+time	INTERVAL [G#1]	strict_before	F1014_8382	C5\in1014.c
+time	INTERVAL [G#1]	strict_after	F1014_8383	C5\in1014.c
+time	INTERVAL [G#1]	before	F1014_8384	C5\in1014.c
+time	INTERVAL [G#1]	after	F1014_8385	C5\in1014.c
+time	INTERVAL [G#1]	set_start_bound	F1014_8386	C5\in1014.c
+time	INTERVAL [G#1]	set_end_bound	F1014_8387	C5\in1014.c
+time	INTERVAL [G#1]	union	F1014_8388	C5\in1014.c
+time	INTERVAL [G#1]	intersection	F1014_8389	C5\in1014.c
+time	INTERVAL [G#1]	gather	F1014_8390	C5\in1014.c
+time	INTERVAL [G#1]	out	F1014_8391	C5\in1014.c
+time	DURATION	is_negative	F967_8401	C4\du967.c
+time	DURATION	is_zero	F967_8402	C4\du967.c
+time	DURATION	identity	F967_8403	C4\du967.c
+time	DURATION	minus	F967_8404	C4\du967.c
+time	DATE_DURATION	make	F968_8405	C4\da968.c
+time	DATE_DURATION	make_by_days	F968_8406	C4\da968.c
+time	DATE_DURATION	zero	F968_8407	C4\da968.c
+time	DATE_DURATION	day	F968_8408	C4\da968.c
+time	DATE_DURATION	month	F968_8409	C4\da968.c
+time	DATE_DURATION	year	F968_8410	C4\da968.c
+time	DATE_DURATION	origin_date	F968_8411	C4\da968.c
+time	DATE_DURATION	days_count	F968_8412	C4\da968.c
+time	DATE_DURATION	is_less	F968_8413	C4\da968.c
+time	DATE_DURATION	is_equal	F968_8414	C4\da968.c
+time	DATE_DURATION	definite	F968_8415	C4\da968.c
+time	DATE_DURATION	canonical	F968_8416	C4\da968.c
+time	DATE_DURATION	is_positive	F968_8417	C4\da968.c
+time	DATE_DURATION	has_origin_date	F968_8418	C4\da968.c
+time	DATE_DURATION	set_origin_date	F968_8419	C4\da968.c
+time	DATE_DURATION	set_day	F968_8420	C4\da968.c
+time	DATE_DURATION	set_month	F968_8421	C4\da968.c
+time	DATE_DURATION	set_year	F968_8422	C4\da968.c
+time	DATE_DURATION	set_date	F968_8423	C4\da968.c
+time	DATE_DURATION	day_add	F968_8424	C4\da968.c
+time	DATE_DURATION	month_add	F968_8425	C4\da968.c
+time	DATE_DURATION	year_add	F968_8426	C4\da968.c
+time	DATE_DURATION	plus	F968_8427	C4\da968.c
+time	DATE_DURATION	opposite	F968_8428	C4\da968.c
+time	DATE_DURATION	to_canonical	F968_8429	C4\da968.c
+time	DATE_DURATION	to_definite	F968_8430	C4\da968.c
+time	DATE_DURATION	to_date_time	F968_8431	C4\da968.c
+time	TIME_DURATION	make	F969_8432	C4\ti969.c
+time	TIME_DURATION	make_fine	F969_8433	C4\ti969.c
+time	TIME_DURATION	make_by_seconds	F969_8434	C4\ti969.c
+time	TIME_DURATION	make_by_fine_seconds	F969_8435	C4\ti969.c
+time	TIME_DURATION	fine_seconds_count	F969_8436	C4\ti969.c
+time	TIME_DURATION	seconds_count	F969_8437	C4\ti969.c
+time	TIME_DURATION	zero	F969_8438	C4\ti969.c
+time	TIME_DURATION	hour	F969_8439	C4\ti969.c
+time	TIME_DURATION	minute	F969_8440	C4\ti969.c
+time	TIME_DURATION	second	F969_8441	C4\ti969.c
+time	TIME_DURATION	fine_second	F969_8442	C4\ti969.c
+time	TIME_DURATION	fractional_second	F969_8443	C4\ti969.c
+time	TIME_DURATION	is_less	F969_8444	C4\ti969.c
+time	TIME_DURATION	is_equal	F969_8445	C4\ti969.c
+time	TIME_DURATION	canonical	F969_8446	C4\ti969.c
+time	TIME_DURATION	is_positive	F969_8447	C4\ti969.c
+time	TIME_DURATION	set_second	F969_8448	C4\ti969.c
+time	TIME_DURATION	set_fine_second	F969_8449	C4\ti969.c
+time	TIME_DURATION	set_fractionals	F969_8450	C4\ti969.c
+time	TIME_DURATION	set_minute	F969_8451	C4\ti969.c
+time	TIME_DURATION	set_hour	F969_8452	C4\ti969.c
+time	TIME_DURATION	second_add	F969_8453	C4\ti969.c
+time	TIME_DURATION	fine_second_add	F969_8454	C4\ti969.c
+time	TIME_DURATION	minute_add	F969_8455	C4\ti969.c
+time	TIME_DURATION	hour_add	F969_8456	C4\ti969.c
+time	TIME_DURATION	plus	F969_8457	C4\ti969.c
+time	TIME_DURATION	opposite	F969_8458	C4\ti969.c
+time	TIME_DURATION	to_canonical	F969_8459	C4\ti969.c
+time	TIME_DURATION	to_days	F969_8460	C4\ti969.c
+time	TIME_DURATION	time_modulo_day	F969_8461	C4\ti969.c
+time	TIME_DURATION	tolerance	F969_8462	C4\ti969.c
+time	DATE_TIME_DURATION	make	F970_8463	C4\da970.c
+time	DATE_TIME_DURATION	make_definite	F970_8464	C4\da970.c
+time	DATE_TIME_DURATION	make_fine	F970_8465	C4\da970.c
+time	DATE_TIME_DURATION	make_by_date_time	F970_8466	C4\da970.c
+time	DATE_TIME_DURATION	make_by_date	F970_8467	C4\da970.c
+time	DATE_TIME_DURATION	date	F970_8468	C4\da970.c
+time	DATE_TIME_DURATION	time	F970_8469	C4\da970.c
+time	DATE_TIME_DURATION	origin_date_time	F970_8470	C4\da970.c
+time	DATE_TIME_DURATION	zero	F970_8471	C4\da970.c
+time	DATE_TIME_DURATION	seconds_count	F970_8472	C4\da970.c
+time	DATE_TIME_DURATION	fine_seconds_count	F970_8473	C4\da970.c
+time	DATE_TIME_DURATION	is_less	F970_8474	C4\da970.c
+time	DATE_TIME_DURATION	is_equal	F970_8475	C4\da970.c
+time	DATE_TIME_DURATION	definite	F970_8476	C4\da970.c
+time	DATE_TIME_DURATION	canonical	F970_8477	C4\da970.c
+time	DATE_TIME_DURATION	is_positive	F970_8478	C4\da970.c
+time	DATE_TIME_DURATION	has_origin_date_time	F970_8479	C4\da970.c
+time	DATE_TIME_DURATION	set_origin_date_time	F970_8480	C4\da970.c
+time	DATE_TIME_DURATION	set_date	F970_8481	C4\da970.c
+time	DATE_TIME_DURATION	set_time	F970_8482	C4\da970.c
+time	DATE_TIME_DURATION	plus	F970_8483	C4\da970.c
+time	DATE_TIME_DURATION	opposite	F970_8484	C4\da970.c
+time	DATE_TIME_DURATION	day_add	F970_8485	C4\da970.c
+time	DATE_TIME_DURATION	to_canonical	F970_8486	C4\da970.c
+time	DATE_TIME_DURATION	time_to_canonical	F970_8487	C4\da970.c
+time	ABSOLUTE	is_less	F971_8490	C4\ab971.c
+time	ABSOLUTE	minus	F971_8491	C4\ab971.c
+wel	WEL_PIPE	make	F972_8493	C4\we972.c
+wel	WEL_PIPE	make_named	F972_8494	C4\we972.c
+wel	WEL_PIPE	make_client	F972_8495	C4\we972.c
+wel	WEL_PIPE	inbound	F972_8496	C4\we972.c
+wel	WEL_PIPE	outbound	F972_8497	C4\we972.c
+wel	WEL_PIPE	duplex	F972_8498	C4\we972.c
+wel	WEL_PIPE	exists	F972_8499	C4\we972.c
+wel	WEL_PIPE	output_handle	F972_8500	C4\we972.c
+wel	WEL_PIPE	input_handle	F972_8501	C4\we972.c
+wel	WEL_PIPE	input_closed	F972_8502	C4\we972.c
+wel	WEL_PIPE	output_closed	F972_8503	C4\we972.c
+wel	WEL_PIPE	last_write_successful	F972_8504	C4\we972.c
+wel	WEL_PIPE	last_read_successful	F972_8505	C4\we972.c
+wel	WEL_PIPE	last_string	F972_8506	C4\we972.c
+wel	WEL_PIPE	last_written_bytes	F972_8507	C4\we972.c
+wel	WEL_PIPE	last_read_bytes	F972_8508	C4\we972.c
+wel	WEL_PIPE	close	F972_8509	C4\we972.c
+wel	WEL_PIPE	close_output	F972_8510	C4\we972.c
+wel	WEL_PIPE	close_input	F972_8511	C4\we972.c
+wel	WEL_PIPE	put_string	F972_8512	C4\we972.c
+wel	WEL_PIPE	read_stream	F972_8513	C4\we972.c
+wel	WEL_PIPE	format_pipe_name	F972_8514	C4\we972.c
+wel	WEL_PIPE	security_attributes	F972_8515	C4\we972.c
+wel	WEL_PIPE	max_pipe_buffer_length	F972_8516	C4\we972.c
+wel	WEL_PIPE	generic_read	F972_8517	C4\we972.c
+wel	WEL_PIPE	generic_write	F972_8518	C4\we972.c
+wel	WEL_PIPE	cwin_create_named_pipe	F972_8519	C4\we972.c
+wel	WEL_PIPE	cwin_create_file	F972_8520	C4\we972.c
+wel	WEL_PIPE	cwin_connect_named_pipe	F972_8521	C4\we972.c
+wel	WEL_PIPE	cwin_wait_piped_name	F972_8522	C4\we972.c
+wel	WEL_PIPE	cwin_read_file	F972_8523	C4\we972.c
+wel	WEL_PIPE	cwin_write_file	F972_8524	C4\we972.c
+wel	WEL_PIPE	cwin_create_pipe	F972_8525	C4\we972.c
+wel	WEL_PIPE	cwin_close_handle	F972_8526	C4\we972.c
+wel	WEL_PIPE	cwin_sleep	F972_8527	C4\we972.c
+wel	WEL_PIPE	invalid_handle_value	F972_8528	C4\we972.c
+kernel	KL_ARRAY [INTEGER_32]	new_rebase	F872_7030	C1\kl872.c
+kernel	KL_ARRAY [BOOLEAN]	new_rebase	F875_7030	C1\kl875.c
+kernel	KL_ARRAY [G#1]	new_rebase	F890_7030	C1\kl890.c
+kernel	KL_ARRAY [CHARACTER_8]	new_rebase	F903_7030	C2\kl903.c
+wel	WEL_STRING	make_from_path	F973_8529	C4\we973.c
+wel	WEL_STRING	make_by_pointer_and_count	F973_8530	C4\we973.c
+wel	WEL_STRING	make_with_newline_conversion	F973_8531	C4\we973.c
+wel	WEL_STRING	share_from_pointer	F973_8532	C4\we973.c
+wel	WEL_STRING	share_from_pointer_and_count	F973_8533	C4\we973.c
+wel	WEL_STRING	substring_8	F973_8534	C4\we973.c
+wel	WEL_STRING	string_8	F973_8535	C4\we973.c
+wel	WEL_STRING	string_discarding_carriage_return	F973_8536	C4\we973.c
+wel	WEL_STRING	read_substring_into	F973_8537	C4\we973.c
+wel	WEL_STRING	read_string_into	F973_8538	C4\we973.c
+wel	WEL_STRING	null_separated_strings	F973_8539	C4\we973.c
+wel	WEL_STRING	null_separated_paths	F973_8540	C4\we973.c
+wel	WEL_STRING	space_separated_strings	F973_8541	C4\we973.c
+wel	WEL_STRING	character_capacity	F973_8542	C4\we973.c
+wel	WEL_STRING	length	F973_8543	C4\we973.c
+wel	WEL_STRING	character_size	F973_8544	C4\we973.c
+wel	WEL_STRING	unicode_character_count	F973_8545	C4\we973.c
+wel	WEL_STRING	occurrences	F973_8546	C4\we973.c
+wel	WEL_STRING	set_string_with_newline_conversion	F973_8547	C4\we973.c
+wel	WEL_STRING	set_count	F973_8548	C4\we973.c
+wel	WEL_STRING	fill_blank	F973_8549	C4\we973.c
+wel	WEL_STRING	fill_value	F973_8550	C4\we973.c
+wel	WEL_STRING	set_null_character	F973_8551	C4\we973.c
+wel	WEL_STRING	set_size_in_string	F973_8552	C4\we973.c
+wel	WEL_STRING	initialize	F973_8553	C4\we973.c
+wel	WEL_STRING	initialize_with_character	F973_8554	C4\we973.c
+wel	WEL_STRING	to_integer	F973_8555	C4\we973.c
+wel	WEL_STRING	exists	F973_8556	C4\we973.c
+wel	WEL_STRING	buffer_length	F973_8557	C4\we973.c
+wel	WEL_STRING	string_length	F973_8558	C4\we973.c
+wel	WEL_STRING	c_strlen	F973_8559	C4\we973.c
+process	PROCESS_OUTPUT_LISTENER_THREAD	make	F974_8560	C4\pr974.c
+process	PROCESS_OUTPUT_LISTENER_THREAD	execute	F974_8561	C4\pr974.c
+process	PROCESS_ERROR_LISTENER_THREAD	make	F975_8562	C4\pr975.c
+process	PROCESS_ERROR_LISTENER_THREAD	execute	F975_8563	C4\pr975.c
+process	PROCESS_INPUT_LISTENER_THREAD	make	F976_8564	C4\pr976.c
+process	PROCESS_INPUT_LISTENER_THREAD	execute	F976_8565	C4\pr976.c
+process	PROCESS_THREAD_TIMER	make	F977_8566	C4\pr977.c
+process	PROCESS_THREAD_TIMER	start	F977_8567	C4\pr977.c
+process	PROCESS_THREAD_TIMER	destroy	F977_8568	C4\pr977.c
+process	PROCESS_THREAD_TIMER	wait	F977_8569	C4\pr977.c
+process	PROCESS_THREAD_TIMER	is_destroyed	F977_8570	C4\pr977.c
+process	PROCESS_THREAD_TIMER	execute	F977_8571	C4\pr977.c
+process	PROCESS_THREAD_TIMER	is_destroy_requested	F977_8572	C4\pr977.c
+process	PROCESS_THREAD_TIMER	mutex	F977_8573	C4\pr977.c
+testing	EQA_TEST_EVALUATOR [G#1]	buffer	F1013_8574	C5\eq1013.c
+testing	EQA_TEST_EVALUATOR [G#1]	execute	F1013_8575	C5\eq1013.c
+testing	EQA_TEST_EVALUATOR [G#1]	execute_test_stage	F1013_8576	C5\eq1013.c
+testing	EQA_TEST_EVALUATOR [G#1]	inline-agent#1 of execute	F1013_9477	C5\eq1013.c
+etf	EQA_EVALUATOR	make	F978_8577	C4\eq978.c
+etf	EQA_EVALUATOR	parse_arguments	F978_8578	C4\eq978.c
+etf	EQA_EVALUATOR	main_loop	F978_8579	C4\eq978.c
+etf	EQA_EVALUATOR	port	F978_8580	C4\eq978.c
+etf	EQA_EVALUATOR	socket	F978_8581	C4\eq978.c
+etf	EQA_EVALUATOR	is_stream_invalid	F978_8582	C4\eq978.c
+etf	EQA_EVALUATOR	testing_directory	F978_8583	C4\eq978.c
+etf	EQA_EVALUATOR	execute_test	F978_8584	C4\eq978.c
+classic_mswin	PROCESS_INFO_IMP	process_id	F980_8586	C4\pr980.c
+classic_mswin	PROCESS_INFO_IMP	get_process_module	F980_8587	C4\pr980.c
+time	DATE_TIME_CODE	make	F981_8588	C4\da981.c
+time	DATE_TIME_CODE	debug_output	F981_8589	C4\da981.c
+time	DATE_TIME_CODE	is_separator_code	F981_8590	C4\da981.c
+time	DATE_TIME_CODE	set_value	F981_8591	C4\da981.c
+time	DATE_TIME_CODE	value	F981_8592	C4\da981.c
+time	DATE_TIME_CODE	count_max	F981_8593	C4\da981.c
+time	DATE_TIME_CODE	count_min	F981_8594	C4\da981.c
+time	DATE_TIME_CODE	name	F981_8595	C4\da981.c
+time	DATE_TIME_CODE	value_max	F981_8596	C4\da981.c
+time	DATE_TIME_CODE	value_min	F981_8597	C4\da981.c
+time	DATE_TIME_CODE	type	F981_8598	C4\da981.c
+time	DATE_TIME_CODE	is_text	F981_8599	C4\da981.c
+time	DATE_TIME_CODE	is_numeric	F981_8600	C4\da981.c
+time	DATE_TIME_CODE	day_numeric_type_code	F981_8601	C4\da981.c
+time	DATE_TIME_CODE	day_numeric_on_2_digits_type_code	F981_8602	C4\da981.c
+time	DATE_TIME_CODE	day_text_type_code	F981_8603	C4\da981.c
+time	DATE_TIME_CODE	year_on_4_digits_type_code	F981_8604	C4\da981.c
+time	DATE_TIME_CODE	year_on_2_digits_type_code	F981_8605	C4\da981.c
+time	DATE_TIME_CODE	month_numeric_type_code	F981_8606	C4\da981.c
+time	DATE_TIME_CODE	month_numeric_on_2_digits_type_code	F981_8607	C4\da981.c
+time	DATE_TIME_CODE	month_text_type_code	F981_8608	C4\da981.c
+time	DATE_TIME_CODE	hour_numeric_type_code	F981_8609	C4\da981.c
+time	DATE_TIME_CODE	hour_numeric_on_2_digits_type_code	F981_8610	C4\da981.c
+time	DATE_TIME_CODE	hour_12_clock_scale_type_code	F981_8611	C4\da981.c
+time	DATE_TIME_CODE	hour_12_clock_scale_on_2_digits_type_code	F981_8612	C4\da981.c
+time	DATE_TIME_CODE	minute_numeric_type_code	F981_8613	C4\da981.c
+time	DATE_TIME_CODE	minute_numeric_on_2_digits_type_code	F981_8614	C4\da981.c
+time	DATE_TIME_CODE	second_numeric_type_code	F981_8615	C4\da981.c
+time	DATE_TIME_CODE	second_numeric_on_2_digits_type_code	F981_8616	C4\da981.c
+time	DATE_TIME_CODE	fractional_second_numeric_type_code	F981_8617	C4\da981.c
+time	DATE_TIME_CODE	colon_type_code	F981_8618	C4\da981.c
+time	DATE_TIME_CODE	slash_type_code	F981_8619	C4\da981.c
+time	DATE_TIME_CODE	minus_type_code	F981_8620	C4\da981.c
+time	DATE_TIME_CODE	comma_type_code	F981_8621	C4\da981.c
+time	DATE_TIME_CODE	space_type_code	F981_8622	C4\da981.c
+time	DATE_TIME_CODE	dot_type_code	F981_8623	C4\da981.c
+time	DATE_TIME_CODE	meridiem_type_code	F981_8624	C4\da981.c
+thread	MUTEX	make	F982_8625	C4\mu982.c
+thread	MUTEX	owner	F982_8626	C4\mu982.c
+thread	MUTEX	is_set	F982_8627	C4\mu982.c
+thread	MUTEX	lock	F982_8628	C4\mu982.c
+thread	MUTEX	try_lock	F982_8629	C4\mu982.c
+thread	MUTEX	unlock	F982_8630	C4\mu982.c
+thread	MUTEX	destroy	F982_8631	C4\mu982.c
+thread	MUTEX	trylock	F982_8632	C4\mu982.c
+thread	MUTEX	has_locked	F982_8633	C4\mu982.c
+thread	MUTEX	dispose	F982_8634	C4\mu982.c
+thread	MUTEX	mutex_pointer	F982_8635	C4\mu982.c
+thread	MUTEX	eif_thr_mutex_create	F982_8636	C4\mu982.c
+thread	MUTEX	eif_thr_mutex_lock	F982_8637	C4\mu982.c
+thread	MUTEX	eif_thr_mutex_unlock	F982_8638	C4\mu982.c
+thread	MUTEX	eif_thr_mutex_trylock	F982_8639	C4\mu982.c
+thread	MUTEX	eif_thr_mutex_destroy	F982_8640	C4\mu982.c
+thread	CONDITION_VARIABLE	make	F983_8641	C4\co983.c
+thread	CONDITION_VARIABLE	is_set	F983_8642	C4\co983.c
+thread	CONDITION_VARIABLE	signal	F983_8643	C4\co983.c
+thread	CONDITION_VARIABLE	broadcast	F983_8644	C4\co983.c
+thread	CONDITION_VARIABLE	wait	F983_8645	C4\co983.c
+thread	CONDITION_VARIABLE	wait_with_timeout	F983_8646	C4\co983.c
+thread	CONDITION_VARIABLE	destroy	F983_8647	C4\co983.c
+thread	CONDITION_VARIABLE	cond_pointer	F983_8648	C4\co983.c
+thread	CONDITION_VARIABLE	dispose	F983_8649	C4\co983.c
+thread	CONDITION_VARIABLE	eif_thr_cond_create	F983_8650	C4\co983.c
+thread	CONDITION_VARIABLE	eif_thr_cond_broadcast	F983_8651	C4\co983.c
+thread	CONDITION_VARIABLE	eif_thr_cond_signal	F983_8652	C4\co983.c
+thread	CONDITION_VARIABLE	eif_thr_cond_wait	F983_8653	C4\co983.c
+thread	CONDITION_VARIABLE	eif_thr_cond_wait_with_timeout	F983_8654	C4\co983.c
+thread	CONDITION_VARIABLE	eif_thr_cond_destroy	F983_8655	C4\co983.c
+network	EXTERNAL_OBJECT	make_from_external	F984_8656	C4\ex984.c
+network	EXTERNAL_OBJECT	dispose	F984_8657	C4\ex984.c
+network	EXTERNAL_OBJECT	object_ptr	F984_8658	C4\ex984.c
+network	ADDRINFO_1	flags	F985_8660	C4\ad985.c
+network	ADDRINFO_1	family	F985_8661	C4\ad985.c
+network	ADDRINFO_1	socktype	F985_8662	C4\ad985.c
+network	ADDRINFO_1	protocol	F985_8663	C4\ad985.c
+network	ADDRINFO_1	addrlen	F985_8664	C4\ad985.c
+network	ADDRINFO_1	canonname	F985_8665	C4\ad985.c
+network	ADDRINFO_1	addr	F985_8666	C4\ad985.c
+network	ADDRINFO_1	next	F985_8667	C4\ad985.c
+network	ADDRINFO_1	c_ai_flags	F985_8668	C4\ad985.c
+network	ADDRINFO_1	c_ai_family	F985_8669	C4\ad985.c
+network	ADDRINFO_1	c_ai_socktype	F985_8670	C4\ad985.c
+network	ADDRINFO_1	c_ai_protocol	F985_8671	C4\ad985.c
+network	ADDRINFO_1	c_ai_addrlen	F985_8672	C4\ad985.c
+network	ADDRINFO_1	c_ai_canonname	F985_8673	C4\ad985.c
+network	ADDRINFO_1	c_ai_addr	F985_8674	C4\ad985.c
+network	ADDRINFO_1	c_ai_next	F985_8675	C4\ad985.c
+network	ADDRINFO_1	c_free	F985_8676	C4\ad985.c
+network	ADDRINFO_2	c_free	F986_8677	C4\ad986.c
+wel	WEL_ANY	make_by_pointer	F987_8678	C4\we987.c
+wel	WEL_ANY	item	F987_8679	C4\we987.c
+wel	WEL_ANY	shared	F987_8680	C4\we987.c
+wel	WEL_ANY	exists	F987_8681	C4\we987.c
+wel	WEL_ANY	set_item	F987_8682	C4\we987.c
+wel	WEL_ANY	set_shared	F987_8683	C4\we987.c
+wel	WEL_ANY	set_unshared	F987_8684	C4\we987.c
+wel	WEL_ANY	to_integer	F987_8685	C4\we987.c
+wel	WEL_ANY	dispose	F987_8686	C4\we987.c
+wel	WEL_ANY	cwel_integer_to_pointer	F987_8688	C4\we987.c
+wel	WEL_DLL	make	F988_8689	C4\we988.c
+wel	WEL_DLL	make_permanent	F988_8690	C4\we988.c
+wel	WEL_DLL	name	F988_8691	C4\we988.c
+wel	WEL_DLL	is_loaded_at_all_time	F988_8692	C4\we988.c
+wel	WEL_DLL	load_api	F988_8693	C4\we988.c
+wel	WEL_DLL	destroy_item	F988_8694	C4\we988.c
+wel	WEL_DLL	max_name_length	F988_8695	C4\we988.c
+wel	WEL_DLL	cwin_permanent_load_library	F988_8696	C4\we988.c
+wel	WEL_DLL	cwin_get_module_file_name	F988_8697	C4\we988.c
+wel	WEL_STRUCTURE	make	F989_8698	C4\we989.c
+wel	WEL_STRUCTURE	copy	F989_8699	C4\we989.c
+wel	WEL_STRUCTURE	is_equal	F989_8700	C4\we989.c
+wel	WEL_STRUCTURE	memory_copy	F989_8701	C4\we989.c
+wel	WEL_STRUCTURE	initialize	F989_8702	C4\we989.c
+wel	WEL_STRUCTURE	initialize_with_character	F989_8703	C4\we989.c
+wel	WEL_STRUCTURE	destroy_item	F989_8705	C4\we989.c
+wel	WEL_STRUCTURE	c_calloc	F989_8706	C4\we989.c
+wel	WEL_STRUCTURE	c_free	F989_8707	C4\we989.c
+wel	WEL_STRUCTURE	c_memcpy	F989_8708	C4\we989.c
+wel	WEL_STRUCTURE	c_enomem	F989_8709	C4\we989.c
+wel	WEL_STRUCTURE	c_memset	F989_8710	C4\we989.c
+wel	WEL_PROCESS_INFO	process_handle	F990_8711	C4\we990.c
+wel	WEL_PROCESS_INFO	thread_handle	F990_8712	C4\we990.c
+wel	WEL_PROCESS_INFO	process_id	F990_8713	C4\we990.c
+wel	WEL_PROCESS_INFO	thread_id	F990_8714	C4\we990.c
+wel	WEL_PROCESS_INFO	set_process_handle	F990_8715	C4\we990.c
+wel	WEL_PROCESS_INFO	set_thread_handle	F990_8716	C4\we990.c
+wel	WEL_PROCESS_INFO	set_process_id	F990_8717	C4\we990.c
+wel	WEL_PROCESS_INFO	set_thread_id	F990_8718	C4\we990.c
+wel	WEL_PROCESS_INFO	structure_size	F990_8719	C4\we990.c
+wel	WEL_PROCESS_INFO	c_size_of_process_info	F990_8720	C4\we990.c
+wel	WEL_PROCESS_INFO	cwel_process_info_get_process_handle	F990_8721	C4\we990.c
+wel	WEL_PROCESS_INFO	cwel_process_info_get_thread_handle	F990_8722	C4\we990.c
+wel	WEL_PROCESS_INFO	cwel_process_info_get_process_id	F990_8723	C4\we990.c
+wel	WEL_PROCESS_INFO	cwel_process_info_get_thread_id	F990_8724	C4\we990.c
+wel	WEL_PROCESS_INFO	cwel_process_info_set_process_handle	F990_8725	C4\we990.c
+wel	WEL_PROCESS_INFO	cwel_process_info_set_thread_handle	F990_8726	C4\we990.c
+wel	WEL_PROCESS_INFO	cwel_process_info_set_process_id	F990_8727	C4\we990.c
+wel	WEL_PROCESS_INFO	cwel_process_info_set_thread_id	F990_8728	C4\we990.c
+wel	WEL_SECURITY_ATTRIBUTES	make	F991_8729	C4\we991.c
+wel	WEL_SECURITY_ATTRIBUTES	is_handle_inherited	F991_8730	C4\we991.c
+wel	WEL_SECURITY_ATTRIBUTES	set_inherit_handle	F991_8731	C4\we991.c
+wel	WEL_SECURITY_ATTRIBUTES	structure_size	F991_8732	C4\we991.c
+wel	WEL_SECURITY_ATTRIBUTES	cwin_size_of_security_attributes	F991_8733	C4\we991.c
+wel	WEL_SECURITY_ATTRIBUTES	cwel_security_attributes_set_length	F991_8734	C4\we991.c
+wel	WEL_SECURITY_ATTRIBUTES	cwel_security_attributes_set_security_descriptor	F991_8735	C4\we991.c
+wel	WEL_SECURITY_ATTRIBUTES	cwel_security_attributes_get_inherit_handle	F991_8736	C4\we991.c
+wel	WEL_SECURITY_ATTRIBUTES	cwel_security_attributes_set_inherit_handle	F991_8737	C4\we991.c
+wel	WEL_STARTUP_INFO	make	F992_8738	C5\we992.c
+wel	WEL_STARTUP_INFO	title	F992_8739	C5\we992.c
+wel	WEL_STARTUP_INFO	x_offset	F992_8740	C5\we992.c
+wel	WEL_STARTUP_INFO	y_offset	F992_8741	C5\we992.c
+wel	WEL_STARTUP_INFO	width	F992_8742	C5\we992.c
+wel	WEL_STARTUP_INFO	height	F992_8743	C5\we992.c
+wel	WEL_STARTUP_INFO	x_character_count	F992_8744	C5\we992.c
+wel	WEL_STARTUP_INFO	y_character_count	F992_8745	C5\we992.c
+wel	WEL_STARTUP_INFO	fill_attributes	F992_8746	C5\we992.c
+wel	WEL_STARTUP_INFO	flags	F992_8747	C5\we992.c
+wel	WEL_STARTUP_INFO	show_command	F992_8748	C5\we992.c
+wel	WEL_STARTUP_INFO	std_input	F992_8749	C5\we992.c
+wel	WEL_STARTUP_INFO	std_output	F992_8750	C5\we992.c
+wel	WEL_STARTUP_INFO	std_error	F992_8751	C5\we992.c
+wel	WEL_STARTUP_INFO	set_title	F992_8752	C5\we992.c
+wel	WEL_STARTUP_INFO	set_x_offset	F992_8753	C5\we992.c
+wel	WEL_STARTUP_INFO	set_y_offset	F992_8754	C5\we992.c
+wel	WEL_STARTUP_INFO	set_width	F992_8755	C5\we992.c
+wel	WEL_STARTUP_INFO	set_height	F992_8756	C5\we992.c
+wel	WEL_STARTUP_INFO	set_x_character_count	F992_8757	C5\we992.c
+wel	WEL_STARTUP_INFO	set_y_character_count	F992_8758	C5\we992.c
+wel	WEL_STARTUP_INFO	set_fill_attributes	F992_8759	C5\we992.c
+wel	WEL_STARTUP_INFO	set_flags	F992_8760	C5\we992.c
+wel	WEL_STARTUP_INFO	add_flag	F992_8761	C5\we992.c
+wel	WEL_STARTUP_INFO	set_show_command	F992_8762	C5\we992.c
+wel	WEL_STARTUP_INFO	set_std_input	F992_8763	C5\we992.c
+wel	WEL_STARTUP_INFO	set_std_output	F992_8764	C5\we992.c
+wel	WEL_STARTUP_INFO	set_std_error	F992_8765	C5\we992.c
+wel	WEL_STARTUP_INFO	structure_size	F992_8766	C5\we992.c
+wel	WEL_STARTUP_INFO	internal_title	F992_8767	C5\we992.c
+wel	WEL_STARTUP_INFO	c_size_of_startup_info	F992_8768	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_init	F992_8769	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_title	F992_8770	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_x_offset	F992_8771	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_y_offset	F992_8772	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_width	F992_8773	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_height	F992_8774	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_x_char_count	F992_8775	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_y_char_count	F992_8776	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_fill_attribute	F992_8777	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_flags	F992_8778	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_show_command	F992_8779	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_std_input	F992_8780	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_std_output	F992_8781	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_std_error	F992_8782	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_title	F992_8783	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_x_offset	F992_8784	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_y_offset	F992_8785	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_width	F992_8786	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_height	F992_8787	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_x_char_count	F992_8788	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_y_char_count	F992_8789	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_fill_attributes	F992_8790	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_flags	F992_8791	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_show_command	F992_8792	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_std_input	F992_8793	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_std_output	F992_8794	C5\we992.c
+wel	WEL_STARTUP_INFO	cwel_startup_info_set_std_error	F992_8795	C5\we992.c
+abstract	SOCKET	retrieved	F993_8796	C5\so993.c
+abstract	SOCKET	was_error	F993_8797	C5\so993.c
+abstract	SOCKET	socket_ok	F993_8798	C5\so993.c
+abstract	SOCKET	error	F993_8799	C5\so993.c
+abstract	SOCKET	support_storable	F993_8800	C5\so993.c
+abstract	SOCKET	is_valid_peer_address	F993_8801	C5\so993.c
+abstract	SOCKET	is_valid_family	F993_8802	C5\so993.c
+abstract	SOCKET	basic_store	F993_8803	C5\so993.c
+abstract	SOCKET	general_store	F993_8804	C5\so993.c
+abstract	SOCKET	independent_store	F993_8805	C5\so993.c
+abstract	SOCKET	cleanup	F993_8809	C5\so993.c
+abstract	SOCKET	close	F993_8810	C5\so993.c
+abstract	SOCKET	descriptor_available	F993_8813	C5\so993.c
+abstract	SOCKET	family	F993_8814	C5\so993.c
+abstract	SOCKET	protocol	F993_8815	C5\so993.c
+abstract	SOCKET	type	F993_8816	C5\so993.c
+abstract	SOCKET	address	F993_8817	C5\so993.c
+abstract	SOCKET	peer_address	F993_8818	C5\so993.c
+abstract	SOCKET	address_type	F993_8819	C5\so993.c
+abstract	SOCKET	set_peer_address	F993_8820	C5\so993.c
+abstract	SOCKET	set_address	F993_8821	C5\so993.c
+abstract	SOCKET	name	F993_8822	C5\so993.c
+abstract	SOCKET	put_new_line	F993_8823	C5\so993.c
+abstract	SOCKET	new_line	F993_8824	C5\so993.c
+abstract	SOCKET	put_string	F993_8825	C5\so993.c
+abstract	SOCKET	putstring	F993_8826	C5\so993.c
+abstract	SOCKET	put_managed_pointer	F993_8827	C5\so993.c
+abstract	SOCKET	put_separate_managed_pointer	F993_8828	C5\so993.c
+abstract	SOCKET	put_character	F993_8829	C5\so993.c
+abstract	SOCKET	putchar	F993_8830	C5\so993.c
+abstract	SOCKET	put_real	F993_8831	C5\so993.c
+abstract	SOCKET	putreal	F993_8832	C5\so993.c
+abstract	SOCKET	put_double	F993_8833	C5\so993.c
+abstract	SOCKET	putdouble	F993_8834	C5\so993.c
+abstract	SOCKET	put_integer	F993_8835	C5\so993.c
+abstract	SOCKET	putint	F993_8836	C5\so993.c
+abstract	SOCKET	put_integer_32	F993_8837	C5\so993.c
+abstract	SOCKET	put_integer_8	F993_8838	C5\so993.c
+abstract	SOCKET	put_integer_16	F993_8839	C5\so993.c
+abstract	SOCKET	put_integer_64	F993_8840	C5\so993.c
+abstract	SOCKET	put_natural_8	F993_8841	C5\so993.c
+abstract	SOCKET	put_natural_16	F993_8842	C5\so993.c
+abstract	SOCKET	put_natural	F993_8843	C5\so993.c
+abstract	SOCKET	put_natural_32	F993_8844	C5\so993.c
+abstract	SOCKET	put_natural_64	F993_8845	C5\so993.c
+abstract	SOCKET	put_boolean	F993_8846	C5\so993.c
+abstract	SOCKET	putbool	F993_8847	C5\so993.c
+abstract	SOCKET	write	F993_8848	C5\so993.c
+abstract	SOCKET	send	F993_8849	C5\so993.c
+abstract	SOCKET	exists	F993_8850	C5\so993.c
+abstract	SOCKET	is_open_write	F993_8851	C5\so993.c
+abstract	SOCKET	is_open_read	F993_8852	C5\so993.c
+abstract	SOCKET	is_executable	F993_8853	C5\so993.c
+abstract	SOCKET	is_writable	F993_8854	C5\so993.c
+abstract	SOCKET	is_readable	F993_8855	C5\so993.c
+abstract	SOCKET	readable	F993_8856	C5\so993.c
+abstract	SOCKET	extendible	F993_8857	C5\so993.c
+abstract	SOCKET	read_real	F993_8858	C5\so993.c
+abstract	SOCKET	readreal	F993_8859	C5\so993.c
+abstract	SOCKET	read_double	F993_8860	C5\so993.c
+abstract	SOCKET	readdouble	F993_8861	C5\so993.c
+abstract	SOCKET	read_character	F993_8862	C5\so993.c
+abstract	SOCKET	readchar	F993_8863	C5\so993.c
+abstract	SOCKET	read_boolean	F993_8864	C5\so993.c
+abstract	SOCKET	readbool	F993_8865	C5\so993.c
+abstract	SOCKET	last_boolean	F993_8866	C5\so993.c
+abstract	SOCKET	read_integer	F993_8867	C5\so993.c
+abstract	SOCKET	readint	F993_8868	C5\so993.c
+abstract	SOCKET	read_integer_32	F993_8869	C5\so993.c
+abstract	SOCKET	read_integer_8	F993_8870	C5\so993.c
+abstract	SOCKET	read_integer_16	F993_8871	C5\so993.c
+abstract	SOCKET	read_integer_64	F993_8872	C5\so993.c
+abstract	SOCKET	read_natural_8	F993_8873	C5\so993.c
+abstract	SOCKET	read_natural_16	F993_8874	C5\so993.c
+abstract	SOCKET	read_natural	F993_8875	C5\so993.c
+abstract	SOCKET	read_natural_32	F993_8876	C5\so993.c
+abstract	SOCKET	read_natural_64	F993_8877	C5\so993.c
+abstract	SOCKET	read_stream	F993_8878	C5\so993.c
+abstract	SOCKET	readstream	F993_8879	C5\so993.c
+abstract	SOCKET	read_to_managed_pointer	F993_8880	C5\so993.c
+abstract	SOCKET	read_to_separate_managed_pointer	F993_8881	C5\so993.c
+abstract	SOCKET	read_line	F993_8882	C5\so993.c
+abstract	SOCKET	readline	F993_8883	C5\so993.c
+abstract	SOCKET	read_line_until	F993_8884	C5\so993.c
+abstract	SOCKET	read	F993_8885	C5\so993.c
+abstract	SOCKET	receive	F993_8886	C5\so993.c
+abstract	SOCKET	enable_debug	F993_8887	C5\so993.c
+abstract	SOCKET	disable_debug	F993_8888	C5\so993.c
+abstract	SOCKET	debug_enabled	F993_8889	C5\so993.c
+abstract	SOCKET	do_not_route	F993_8890	C5\so993.c
+abstract	SOCKET	route	F993_8891	C5\so993.c
+abstract	SOCKET	route_enabled	F993_8892	C5\so993.c
+abstract	SOCKET	set_receive_buf_size	F993_8893	C5\so993.c
+abstract	SOCKET	receive_buf_size	F993_8894	C5\so993.c
+abstract	SOCKET	set_send_buf_size	F993_8895	C5\so993.c
+abstract	SOCKET	send_buf_size	F993_8896	C5\so993.c
+abstract	SOCKET	is_socket_stream	F993_8897	C5\so993.c
+abstract	SOCKET	set_non_blocking	F993_8898	C5\so993.c
+abstract	SOCKET	set_blocking	F993_8899	C5\so993.c
+abstract	SOCKET	is_blocking	F993_8900	C5\so993.c
+abstract	SOCKET	set_owner	F993_8901	C5\so993.c
+abstract	SOCKET	is_group_id	F993_8902	C5\so993.c
+abstract	SOCKET	is_process_id	F993_8903	C5\so993.c
+abstract	SOCKET	group_id	F993_8904	C5\so993.c
+abstract	SOCKET	process_id	F993_8905	C5\so993.c
+abstract	SOCKET	socket_error	F993_8906	C5\so993.c
+abstract	SOCKET	read_into_pointer	F993_8907	C5\so993.c
+abstract	SOCKET	put_pointer_content	F993_8908	C5\so993.c
+abstract	SOCKET	socket_buffer	F993_8910	C5\so993.c
+abstract	SOCKET	internal_socket_buffer	F993_8911	C5\so993.c
+abstract	SOCKET	c_put_stream	F993_8912	C5\so993.c
+abstract	SOCKET	c_read_stream	F993_8913	C5\so993.c
+abstract	SOCKET	c_write	F993_8914	C5\so993.c
+abstract	SOCKET	c_receive	F993_8915	C5\so993.c
+abstract	SOCKET	c_send	F993_8916	C5\so993.c
+abstract	SOCKET	c_set_sock_opt_int	F993_8917	C5\so993.c
+abstract	SOCKET	c_get_sock_opt_int	F993_8918	C5\so993.c
+abstract	SOCKET	c_fcntl	F993_8919	C5\so993.c
+abstract	SOCKET	c_set_non_blocking	F993_8920	C5\so993.c
+abstract	SOCKET	c_set_blocking	F993_8921	C5\so993.c
+abstract	SOCKET	c_syncpoll	F993_8922	C5\so993.c
+abstract	SOCKET	c_select_poll	F993_8923	C5\so993.c
+abstract	SOCKET	eif_net_retrieved	F993_8924	C5\so993.c
+abstract	SOCKET	eif_net_basic_store	F993_8925	C5\so993.c
+abstract	SOCKET	eif_net_general_store	F993_8926	C5\so993.c
+abstract	SOCKET	eif_net_independent_store	F993_8927	C5\so993.c
+abstract	STREAM_SOCKET	support_storable	F994_8928	C5\st994.c
+abstract	STREAM_SOCKET	accepted	F994_8930	C5\st994.c
+network	NETWORK_SOCKET	exists	F995_8932	C5\ne995.c
+network	NETWORK_SOCKET	close_socket	F995_8933	C5\ne995.c
+network	NETWORK_SOCKET	descriptor	F995_8934	C5\ne995.c
+network	NETWORK_SOCKET	connect	F995_8935	C5\ne995.c
+network	NETWORK_SOCKET	bind	F995_8936	C5\ne995.c
+network	NETWORK_SOCKET	address_type	F995_8937	C5\ne995.c
+network	NETWORK_SOCKET	is_closed	F995_8938	C5\ne995.c
+network	NETWORK_SOCKET	is_created	F995_8939	C5\ne995.c
+network	NETWORK_SOCKET	is_connected	F995_8940	C5\ne995.c
+network	NETWORK_SOCKET	is_bound	F995_8941	C5\ne995.c
+network	NETWORK_SOCKET	port	F995_8942	C5\ne995.c
+network	NETWORK_SOCKET	reuse_address	F995_8943	C5\ne995.c
+network	NETWORK_SOCKET	is_valid_peer_address	F995_8944	C5\ne995.c
+network	NETWORK_SOCKET	is_valid_family	F995_8945	C5\ne995.c
+network	NETWORK_SOCKET	ready_for_reading	F995_8946	C5\ne995.c
+network	NETWORK_SOCKET	ready_for_writing	F995_8947	C5\ne995.c
+network	NETWORK_SOCKET	has_exception_state	F995_8948	C5\ne995.c
+network	NETWORK_SOCKET	timeout	F995_8949	C5\ne995.c
+network	NETWORK_SOCKET	set_reuse_address	F995_8950	C5\ne995.c
+network	NETWORK_SOCKET	do_not_reuse_address	F995_8951	C5\ne995.c
+network	NETWORK_SOCKET	set_timeout	F995_8952	C5\ne995.c
+network	NETWORK_SOCKET	set_non_blocking	F995_8953	C5\ne995.c
+network	NETWORK_SOCKET	set_blocking	F995_8954	C5\ne995.c
+network	NETWORK_SOCKET	make_socket	F995_8955	C5\ne995.c
+network	NETWORK_SOCKET	set_closed	F995_8956	C5\ne995.c
+network	NETWORK_SOCKET	shutdown	F995_8957	C5\ne995.c
+network	NETWORK_SOCKET	fd	F995_8958	C5\ne995.c
+network	NETWORK_SOCKET	fd1	F995_8959	C5\ne995.c
+network	NETWORK_SOCKET	last_fd	F995_8960	C5\ne995.c
+network	NETWORK_SOCKET	internal_port	F995_8961	C5\ne995.c
+network	NETWORK_SOCKET	default_timeout	F995_8965	C5\ne995.c
+network	NETWORK_SOCKET	c_close	F995_8966	C5\ne995.c
+network	NETWORK_SOCKET	c_select_poll_with_timeout	F995_8967	C5\ne995.c
+network	NETWORK_SOCKET	c_check_exception_with_timeout	F995_8968	C5\ne995.c
+network	NETWORK_SOCKET	c_shutdown	F995_8969	C5\ne995.c
+network	NETWORK_STREAM_SOCKET	make_empty	F996_8970	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	make	F996_8971	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	make_client_by_port	F996_8972	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	make_server_by_port	F996_8973	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	make_loopback_server_by_port	F996_8974	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	make_client_by_address_and_port	F996_8975	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	make_from_descriptor_and_address	F996_8976	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	create_from_descriptor	F996_8977	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	connect_timeout	F996_8978	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	set_connect_timeout	F996_8979	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	accept_timeout	F996_8980	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	set_accept_timeout	F996_8981	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	listen	F996_8982	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	accept_to	F996_8983	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	accept	F996_8984	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	maximum_seg_size	F996_8985	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	maxium_seg_size	F996_8986	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	has_delay	F996_8987	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	is_linger_on	F996_8988	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	is_out_of_band_inline	F996_8989	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	linger_time	F996_8990	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	set_delay	F996_8991	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	set_nodelay	F996_8992	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	set_linger	F996_8993	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	set_linger_on	F996_8994	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	set_linger_off	F996_8995	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	set_out_of_band_inline	F996_8996	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	set_out_of_band_not_inline	F996_8997	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	do_connect	F996_8998	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	do_bind	F996_8999	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	do_create	F996_9000	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	do_accept	F996_9001	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	c_create	F996_9002	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	c_connect	F996_9003	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	c_bind	F996_9004	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	c_listen	F996_9005	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	c_accept	F996_9006	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	c_sock_name	F996_9007	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	c_set_sock_opt_linger	F996_9008	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	c_is_linger_on	F996_9009	C5\ne996.c
+network	NETWORK_STREAM_SOCKET	c_linger_time	F996_9010	C5\ne996.c
+testing	EQA_TEST_OUTPUT_BUFFER	make	F997_9011	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	buffer_size	F997_9012	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	count	F997_9013	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	content	F997_9014	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	leading_content	F997_9015	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	closing_content	F997_9016	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	formatted_content	F997_9017	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	buffer	F997_9018	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	split_position	F997_9019	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	truncated_start_position	F997_9020	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	is_truncated	F997_9021	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	exists	F997_9022	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	readable	F997_9023	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	wipe_out	F997_9024	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	put_string	F997_9025	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	putstring	F997_9026	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	put_character	F997_9027	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	putchar	F997_9028	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	put_boolean	F997_9029	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	putbool	F997_9030	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	put_new_line	F997_9031	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	new_line	F997_9032	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	put_double	F997_9033	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	putdouble	F997_9034	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	put_real	F997_9035	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	putreal	F997_9036	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	flush	F997_9037	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	dispose	F997_9038	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	back	F997_9039	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	end_of_file	F997_9040	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	file_close	F997_9041	C5\eq997.c
+testing	EQA_TEST_OUTPUT_BUFFER	m_truncated	F997_9042	C5\eq997.c
+testing	EQA_PARTIAL_RESULT	make	F998_9043	C5\eq998.c
+testing	EQA_PARTIAL_RESULT	start_date	F998_9044	C5\eq998.c
+testing	EQA_PARTIAL_RESULT	finish_date	F998_9045	C5\eq998.c
+testing	EQA_PARTIAL_RESULT	duration	F998_9046	C5\eq998.c
+testing	EQA_PARTIAL_RESULT	setup_response	F998_9047	C5\eq998.c
+testing	EQA_PARTIAL_RESULT	output	F998_9048	C5\eq998.c
+testing	EQA_PARTIAL_RESULT	tag	F998_9049	C5\eq998.c
+testing	EQA_PARTIAL_RESULT	is_pass	F998_9050	C5\eq998.c
+testing	EQA_PARTIAL_RESULT	is_fail	F998_9051	C5\eq998.c
+testing	EQA_PARTIAL_RESULT	is_unresolved	F998_9052	C5\eq998.c
+testing	EQA_PARTIAL_RESULT	is_maintenance_required	F998_9053	C5\eq998.c
+testing	EQA_PARTIAL_RESULT	correct_mismatch	F998_9054	C5\eq998.c
+testing	EQA_PARTIAL_RESULT	output_name	F998_9055	C5\eq998.c
+testing	EQA_RESULT	make	F999_9056	C5\eq999.c
+testing	EQA_RESULT	test_response	F999_9057	C5\eq999.c
+testing	EQA_RESULT	teardown_response	F999_9058	C5\eq999.c
+testing	EQA_RESULT	tag	F999_9059	C5\eq999.c
+testing	EQA_RESULT	is_pass	F999_9060	C5\eq999.c
+testing	EQA_RESULT	is_fail	F999_9061	C5\eq999.c
+testing	EQA_RESULT	is_maintenance_required	F999_9062	C5\eq999.c
+testing	EQA_RESULT	is_test_response_valid	F999_9063	C5\eq999.c
+time	DATE_VALUE	day	F1000_9064	C5\da1000.c
+time	DATE_VALUE	month	F1000_9065	C5\da1000.c
+time	DATE_VALUE	year	F1000_9066	C5\da1000.c
+time	DATE_VALUE	compact_date	F1000_9067	C5\da1000.c
+time	DATE_VALUE	ordered_compact_date	F1000_9068	C5\da1000.c
+time	DATE_VALUE	set_date	F1000_9069	C5\da1000.c
+time	DATE_VALUE	set_day	F1000_9070	C5\da1000.c
+time	DATE_VALUE	set_month	F1000_9071	C5\da1000.c
+time	DATE_VALUE	set_year	F1000_9072	C5\da1000.c
+time	DATE_VALUE	set_internal_compact_date	F1000_9073	C5\da1000.c
+time	DATE_VALUE	set_internal_ordered_compact_date	F1000_9074	C5\da1000.c
+time	DATE_VALUE	correct_mismatch	F1000_9075	C5\da1000.c
+time	DATE_VALUE	day_mask	F1000_9076	C5\da1000.c
+time	DATE_VALUE	month_mask	F1000_9077	C5\da1000.c
+time	DATE_VALUE	year_mask	F1000_9078	C5\da1000.c
+time	DATE_VALUE	year_shift	F1000_9079	C5\da1000.c
+time	DATE_VALUE	month_shift	F1000_9080	C5\da1000.c
+time	DATE_VALUE	day_shift	F1000_9081	C5\da1000.c
+time	DATE_VALUE	compact_date_attribute_name	F1000_9082	C5\da1000.c
+time	DATE_VALUE	set_private_internal_compact_date	F1000_9083	C5\da1000.c
+etf	ITP_VARIABLE	make	F1001_9084	C5\it1001.c
+etf	ITP_VARIABLE	name	F1001_9085	C5\it1001.c
+etf	ITP_VARIABLE	hash_code	F1001_9086	C5\it1001.c
+etf	ITP_VARIABLE	is_equal	F1001_9087	C5\it1001.c
+etf	ITP_VARIABLE	index	F1001_9088	C5\it1001.c
+etf	ITP_VARIABLE	process	F1001_9089	C5\it1001.c
+torredebabel	COMPONENTE	nombre	F862_6975	C1\co862.c
+torredebabel	COMPONENTE	componente	F862_7403	C1\co862.c
+torredebabel	COMPONENTE	getnombre	F862_6977	C1\co862.c
+torredebabel	COMPONENTE	setnombre	F862_6978	C1\co862.c
+torredebabel	COMPONENTE	gettam	F862_7404	C1\co862.c
+torredebabel	COMPONENTE	numelem	F862_7405	C1\co862.c
+torredebabel	COMPONENTE	hash_code	F862_7406	C1\co862.c
+torredebabel	ENLACE_DIRECTO	tamanhofich	F866_7407	C1\en866.c
+torredebabel	ENLACE_DIRECTO	elementodestino	F866_7408	C1\en866.c
+torredebabel	ENLACE_DIRECTO	enlace_directo	F866_7409	C1\en866.c
+torredebabel	ENLACE_DIRECTO	gettam	F866_7410	C1\en866.c
+torredebabel	ENLACE_DIRECTO	numelem	F866_7411	C1\en866.c
+torredebabel	ENLACE_DIRECTO	getelemento	F866_7412	C1\en866.c
+torredebabel	ENLACE_DIRECTO	setelemento	F866_7413	C1\en866.c
+torredebabel	ENLAZABLE	enlazable	F867_7416	C1\en867.c
+torredebabel	DIRECTORIO	definicion	F868_6995	C1\di868.c
+torredebabel	DIRECTORIO	contenidos	F868_7417	C1\di868.c
+torredebabel	DIRECTORIO	directorio	F868_6996	C1\di868.c
+torredebabel	DIRECTORIO	gettam	F868_7418	C1\di868.c
+torredebabel	DIRECTORIO	numelem	F868_6997	C1\di868.c
+torredebabel	DIRECTORIO	anhadeelemento	F868_6998	C1\di868.c
+torredebabel	DIRECTORIO	eliminaelemento	F868_6999	C1\di868.c
+thread	THREAD_ATTRIBUTES	make	F1002_9097	C5\th1002.c
+thread	THREAD_ATTRIBUTES	set_priority	F1002_9098	C5\th1002.c
+thread	THREAD_ATTRIBUTES	set_stack_size	F1002_9099	C5\th1002.c
+thread	THREAD_ATTRIBUTES	priority	F1002_9100	C5\th1002.c
+thread	THREAD_ATTRIBUTES	stack_size	F1002_9101	C5\th1002.c
+thread	THREAD_ATTRIBUTES	default_priority	F1002_9102	C5\th1002.c
+thread	THREAD_ATTRIBUTES	min_priority	F1002_9103	C5\th1002.c
+thread	THREAD_ATTRIBUTES	max_priority	F1002_9104	C5\th1002.c
+thread	THREAD_ATTRIBUTES	c_set_priority	F1002_9105	C5\th1002.c
+thread	THREAD_ATTRIBUTES	c_set_stack_size	F1002_9106	C5\th1002.c
+thread	THREAD_ATTRIBUTES	c_priority	F1002_9107	C5\th1002.c
+thread	THREAD_ATTRIBUTES	c_stack_size	F1002_9108	C5\th1002.c
+thread	THREAD_ATTRIBUTES	structure_size	F1002_9109	C5\th1002.c
+thread	THREAD_ATTRIBUTES	set_policy	F1002_9110	C5\th1002.c
+thread	THREAD_ATTRIBUTES	set_detached	F1002_9111	C5\th1002.c
+thread	THREAD_ATTRIBUTES	scheduling_policy	F1002_9112	C5\th1002.c
+thread	THREAD_ATTRIBUTES	detached	F1002_9113	C5\th1002.c
+thread	THREAD_ATTRIBUTES	default_policy	F1002_9114	C5\th1002.c
+thread	THREAD_ATTRIBUTES	other	F1002_9115	C5\th1002.c
+thread	THREAD_ATTRIBUTES	fifo	F1002_9116	C5\th1002.c
+thread	THREAD_ATTRIBUTES	round_robin	F1002_9117	C5\th1002.c
+kernel	KL_CLONABLE	cloned_object	F869_7041	C1\kl869.c
+structure	DS_CURSOR [G#1]	item	F885_7042	C1\ds885.c
+structure	DS_CURSOR [G#1]	same_position	F885_7045	C1\ds885.c
+structure	DS_CURSOR [G#1]	valid_cursor	F885_7046	C1\ds885.c
+structure	DS_CURSOR [G#1]	go_to	F885_7047	C1\ds885.c
+structure	DS_CURSOR [G#1]	copy	F885_7048	C1\ds885.c
+structure	DS_CURSOR [G#1]	is_equal	F885_7049	C1\ds885.c
+structure	DS_CURSOR [G#1]	next_cursor	F885_7050	C1\ds885.c
+structure	DS_CURSOR [G#1]	set_next_cursor	F885_7051	C1\ds885.c
+structure	DS_LINEAR_CURSOR [G#1]	is_first	F882_7053	C1\ds882.c
+structure	DS_LINEAR_CURSOR [G#1]	off	F882_7055	C1\ds882.c
+structure	DS_LINEAR_CURSOR [G#1]	start	F882_7056	C1\ds882.c
+structure	DS_LINEAR_CURSOR [G#1]	forth	F882_7057	C1\ds882.c
+structure	DS_LINEAR_CURSOR [G#1]	search_forth	F882_7058	C1\ds882.c
+structure	DS_LINEAR_CURSOR [G#1]	go_after	F882_7059	C1\ds882.c
+structure	DS_LINEAR_CURSOR [G#1]	next_cursor	F882_7060	C1\ds882.c
+structure	DS_BILINEAR_CURSOR [G#1]	is_last	F881_7062	C1\ds881.c
+structure	DS_BILINEAR_CURSOR [G#1]	off	F881_7064	C1\ds881.c
+structure	DS_BILINEAR_CURSOR [G#1]	finish	F881_7065	C1\ds881.c
+structure	DS_BILINEAR_CURSOR [G#1]	back	F881_7066	C1\ds881.c
+structure	DS_BILINEAR_CURSOR [G#1]	search_back	F881_7067	C1\ds881.c
+structure	DS_BILINEAR_CURSOR [G#1]	go_before	F881_7068	C1\ds881.c
+structure	DS_BILINEAR_CURSOR [G#1]	next_cursor	F881_7069	C1\ds881.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	make	F880_7070	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	container	F880_7071	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	after	F880_7072	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	before	F880_7073	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	off	F880_7074	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	position	F880_7075	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	set_position	F880_7076	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	set_after	F880_7077	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	set_before	F880_7078	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	valid_position	F880_7079	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	before_position	F880_7080	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	after_position	F880_7081	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	next_cursor	F880_7082	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	correct_mismatch	F880_7083	C1\ds880.c
+structure	DS_SPARSE_CONTAINER_CURSOR [G#1, G#2]	correct_mismatch_20130823	F880_7084	C1\ds880.c
+structure	DS_SET_CURSOR [G#1]	next_cursor	F895_7086	C2\ds895.c
+structure	DS_SPARSE_SET_CURSOR [G#1]	container	F879_7087	C1\ds879.c
+structure	DS_SPARSE_SET_CURSOR [G#1]	next_cursor	F879_7088	C1\ds879.c
+structure	DS_ARRAYED_SPARSE_SET_CURSOR [G#1]	container	F878_7089	C1\ds878.c
+structure	DS_ARRAYED_SPARSE_SET_CURSOR [G#1]	next_cursor	F878_7090	C1\ds878.c
+structure	DS_HASH_SET_CURSOR [G#1]	container	F877_7091	C1\ds877.c
+structure	DS_HASH_SET_CURSOR [G#1]	next_cursor	F877_7092	C1\ds877.c
+structure	DS_CONTAINER [G#1]	is_empty	F886_7095	C1\ds886.c
+structure	DS_RESIZABLE [G#1]	default_capacity	F893_7106	C2\ds893.c
+structure	DS_RESIZABLE [G#1]	is_full	F893_7107	C2\ds893.c
+structure	DS_RESIZABLE [G#1]	new_capacity	F893_7109	C2\ds893.c
+structure	DS_TRAVERSABLE [G#1]	item_for_iteration	F884_7110	C1\ds884.c
+structure	DS_TRAVERSABLE [G#1]	off	F884_7112	C1\ds884.c
+structure	DS_TRAVERSABLE [G#1]	same_position	F884_7113	C1\ds884.c
+structure	DS_TRAVERSABLE [G#1]	valid_cursor	F884_7114	C1\ds884.c
+structure	DS_TRAVERSABLE [G#1]	go_to	F884_7115	C1\ds884.c
+structure	DS_TRAVERSABLE [G#1]	cursor_off	F884_7119	C1\ds884.c
+structure	DS_TRAVERSABLE [G#1]	add_traversing_cursor	F884_7122	C1\ds884.c
+structure	DS_TRAVERSABLE [G#1]	remove_traversing_cursor	F884_7123	C1\ds884.c
+structure	DS_SEARCHABLE [G#1]	has_void	F887_7125	C1\ds887.c
+structure	DS_SEARCHABLE [G#1]	same_items	F887_7126	C1\ds887.c
+structure	DS_SEARCHABLE [G#1]	same_equality_tester	F887_7127	C1\ds887.c
+structure	DS_SEARCHABLE [G#1]	equality_tester_settable	F887_7128	C1\ds887.c
+structure	DS_SEARCHABLE [G#1]	equality_tester	F887_7130	C1\ds887.c
+structure	DS_SEARCHABLE [G#1]	set_equality_tester	F887_7131	C1\ds887.c
+structure	DS_LINEAR [G#1]	is_first	F883_7139	C1\ds883.c
+structure	DS_LINEAR [G#1]	after	F883_7140	C1\ds883.c
+structure	DS_LINEAR [G#1]	has	F883_7141	C1\ds883.c
+structure	DS_LINEAR [G#1]	occurrences	F883_7142	C1\ds883.c
+structure	DS_LINEAR [G#1]	start	F883_7143	C1\ds883.c
+structure	DS_LINEAR [G#1]	forth	F883_7144	C1\ds883.c
+structure	DS_LINEAR [G#1]	search_forth	F883_7145	C1\ds883.c
+structure	DS_LINEAR [G#1]	go_after	F883_7146	C1\ds883.c
+structure	DS_LINEAR [G#1]	to_array	F883_7153	C1\ds883.c
+structure	DS_LINEAR [G#1]	cursor_after	F883_7155	C1\ds883.c
+structure	DS_BILINEAR [G#1]	is_last	F891_7162	C1\ds891.c
+structure	DS_BILINEAR [G#1]	before	F891_7163	C1\ds891.c
+structure	DS_BILINEAR [G#1]	finish	F891_7164	C1\ds891.c
+structure	DS_BILINEAR [G#1]	back	F891_7165	C1\ds891.c
+structure	DS_BILINEAR [G#1]	search_back	F891_7166	C1\ds891.c
+structure	DS_BILINEAR [G#1]	go_before	F891_7167	C1\ds891.c
+structure	DS_BILINEAR [G#1]	cursor_before	F891_7169	C1\ds891.c
+structure	DS_SET [G#1]	is_superset	F896_7178	C2\ds896.c
+structure	DS_SET [G#1]	equality_tester_settable	F896_7180	C2\ds896.c
+structure	DS_SET [G#1]	occurrences	F896_7181	C2\ds896.c
+structure	DS_SET [G#1]	union	F896_7182	C2\ds896.c
+structure	DS_SET [G#1]	intersection	F896_7183	C2\ds896.c
+structure	DS_SET [G#1]	subtraction	F896_7184	C2\ds896.c
+structure	DS_SET [G#1]	symdifference	F896_7185	C2\ds896.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	make	F892_7201	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	found_item	F892_7202	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	first	F892_7203	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	last	F892_7204	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	new_cursor	F892_7205	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	count	F892_7206	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	capacity	F892_7207	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	occurrences	F892_7208	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	has	F892_7209	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	found	F892_7210	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	do_all	F892_7211	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	do_all_with_index	F892_7212	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	do_if	F892_7213	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	do_if_with_index	F892_7214	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	do_until	F892_7215	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	do_if_until	F892_7216	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	there_exists	F892_7217	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	for_all	F892_7218	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	search	F892_7219	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	unset_found_item	F892_7220	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	copy	F892_7221	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	remove	F892_7222	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	remove_found_item	F892_7223	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	wipe_out	F892_7224	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	resize	F892_7225	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	compress	F892_7226	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	last_position	F892_7227	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	valid_position	F892_7232	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	valid_slot	F892_7233	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	search_position	F892_7234	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	remove_position	F892_7238	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	modulus	F892_7261	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	free_slot	F892_7262	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	position	F892_7263	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	slots_position	F892_7264	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	clashes_previous_position	F892_7265	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	found_position	F892_7266	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	no_position	F892_7267	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	free_watermark	F892_7268	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	free_offset	F892_7269	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	set_internal_cursor	F892_7270	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	internal_cursor	F892_7271	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	move_all_cursors_after	F892_7272	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	move_all_cursors	F892_7273	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	move_cursors_after	F892_7274	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	move_cursors_forth	F892_7275	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_item	F892_7276	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_is_first	F892_7277	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_is_last	F892_7278	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_same_position	F892_7279	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_start	F892_7280	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_finish	F892_7281	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_forth	F892_7282	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_back	F892_7283	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_search_forth	F892_7284	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_search_back	F892_7285	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_go_after	F892_7286	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_go_before	F892_7287	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	cursor_go_to	F892_7288	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	new_capacity	F892_7289	C1\ds892.c
+structure	DS_SPARSE_CONTAINER [G#1, G#2]	new_modulus	F892_7290	C1\ds892.c
+structure	DS_SPARSE_SET [G#1]	make_equal	F894_7291	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	make_default	F894_7292	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	at	F894_7293	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	item	F894_7294	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	new_cursor	F894_7295	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	has	F894_7296	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	extendible	F894_7297	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	is_subset	F894_7298	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	is_disjoint	F894_7299	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	search	F894_7300	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	is_equal	F894_7301	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	put	F894_7302	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	put_new	F894_7303	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	put_last	F894_7304	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	force	F894_7305	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	force_new	F894_7306	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	force_last	F894_7307	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	extend	F894_7308	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	extend_last	F894_7309	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	append	F894_7310	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	append_last	F894_7311	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	merge	F894_7312	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	intersect	F894_7313	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	subtract	F894_7314	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	symdif	F894_7315	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	key_storage_item	F894_7316	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	key_equality_tester	F894_7317	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	internal_set_key_equality_tester	F894_7318	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	make_key_storage	F894_7319	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	key_storage_put	F894_7320	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	clone_key_storage	F894_7321	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	key_storage_resize	F894_7322	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	key_storage_wipe_out	F894_7323	C2\ds894.c
+structure	DS_SPARSE_SET [G#1]	key_storage_keep_head	F894_7324	C2\ds894.c
+time	FIND_SEPARATOR_FACILITY	separator_characters	F1003_9118	C5\fi1003.c
+time	FIND_SEPARATOR_FACILITY	find_separator	F1003_9119	C5\fi1003.c
+time	FIND_SEPARATOR_FACILITY	extracted_substrings	F1003_9120	C5\fi1003.c
+time	FIND_SEPARATOR_FACILITY	has_separators	F1003_9121	C5\fi1003.c
+time	DATE_TIME_CODE_STRING	make	F1004_9122	C5\da1004.c
+time	DATE_TIME_CODE_STRING	value	F1004_9123	C5\da1004.c
+time	DATE_TIME_CODE_STRING	name	F1004_9124	C5\da1004.c
+time	DATE_TIME_CODE_STRING	base_century	F1004_9125	C5\da1004.c
+time	DATE_TIME_CODE_STRING	is_date	F1004_9126	C5\da1004.c
+time	DATE_TIME_CODE_STRING	is_time	F1004_9127	C5\da1004.c
+time	DATE_TIME_CODE_STRING	is_date_time	F1004_9128	C5\da1004.c
+time	DATE_TIME_CODE_STRING	is_value_valid	F1004_9129	C5\da1004.c
+time	DATE_TIME_CODE_STRING	separators_used	F1004_9130	C5\da1004.c
+time	DATE_TIME_CODE_STRING	set_base_century	F1004_9131	C5\da1004.c
+time	DATE_TIME_CODE_STRING	correspond	F1004_9132	C5\da1004.c
+time	DATE_TIME_CODE_STRING	create_string	F1004_9133	C5\da1004.c
+time	DATE_TIME_CODE_STRING	create_date_string	F1004_9134	C5\da1004.c
+time	DATE_TIME_CODE_STRING	create_time_string	F1004_9135	C5\da1004.c
+time	DATE_TIME_CODE_STRING	create_date_time	F1004_9136	C5\da1004.c
+time	DATE_TIME_CODE_STRING	create_date	F1004_9137	C5\da1004.c
+time	DATE_TIME_CODE_STRING	create_time	F1004_9138	C5\da1004.c
+time	DATE_TIME_CODE_STRING	precise	F1004_9139	C5\da1004.c
+time	DATE_TIME_CODE_STRING	precise_date	F1004_9140	C5\da1004.c
+time	DATE_TIME_CODE_STRING	precise_time	F1004_9141	C5\da1004.c
+time	DATE_TIME_CODE_STRING	days	F1004_9142	C5\da1004.c
+time	DATE_TIME_CODE_STRING	months	F1004_9143	C5\da1004.c
+time	DATE_TIME_CODE_STRING	right_day_text	F1004_9144	C5\da1004.c
+time	DATE_TIME_CODE_STRING	parser	F1004_9145	C5\da1004.c
+time	DATE_TIME_CODE_STRING	internal_parser	F1004_9146	C5\da1004.c
+time	TIME_VALIDITY_CHECKER	time_valid	F1005_9147	C5\ti1005.c
+time	TIME_VALIDITY_CHECKER	compact_time_valid	F1005_9148	C5\ti1005.c
+time	TIME_VALIDITY_CHECKER	is_correct_time	F1005_9149	C5\ti1005.c
+time	TIME	make	F1006_9150	C5\ti1006.c
+time	TIME	make_fine	F1006_9151	C5\ti1006.c
+time	TIME	make_now	F1006_9152	C5\ti1006.c
+time	TIME	make_now_utc	F1006_9153	C5\ti1006.c
+time	TIME	make_by_seconds	F1006_9154	C5\ti1006.c
+time	TIME	make_by_fine_seconds	F1006_9155	C5\ti1006.c
+time	TIME	make_from_string_default	F1006_9156	C5\ti1006.c
+time	TIME	make_from_string	F1006_9157	C5\ti1006.c
+time	TIME	make_by_compact_time	F1006_9158	C5\ti1006.c
+time	TIME	origin	F1006_9159	C5\ti1006.c
+time	TIME	is_less	F1006_9160	C5\ti1006.c
+time	TIME	duration	F1006_9161	C5\ti1006.c
+time	TIME	seconds	F1006_9162	C5\ti1006.c
+time	TIME	fine_seconds	F1006_9163	C5\ti1006.c
+time	TIME	plus	F1006_9164	C5\ti1006.c
+time	TIME	relative_duration	F1006_9165	C5\ti1006.c
+time	TIME	second_add	F1006_9166	C5\ti1006.c
+time	TIME	fine_second_add	F1006_9167	C5\ti1006.c
+time	TIME	minute_add	F1006_9168	C5\ti1006.c
+time	TIME	hour_add	F1006_9169	C5\ti1006.c
+time	TIME	second_forth	F1006_9170	C5\ti1006.c
+time	TIME	second_back	F1006_9171	C5\ti1006.c
+time	TIME	minute_forth	F1006_9172	C5\ti1006.c
+time	TIME	minute_back	F1006_9173	C5\ti1006.c
+time	TIME	hour_forth	F1006_9174	C5\ti1006.c
+time	TIME	hour_back	F1006_9175	C5\ti1006.c
+time	TIME	debug_output	F1006_9176	C5\ti1006.c
+time	TIME	out	F1006_9177	C5\ti1006.c
+time	TIME	formatted_out	F1006_9178	C5\ti1006.c
+time	DATE_VALIDITY_CHECKER	date_valid	F1007_9179	C5\da1007.c
+time	DATE_VALIDITY_CHECKER	date_valid_with_base	F1007_9180	C5\da1007.c
+time	DATE_VALIDITY_CHECKER	date_valid_default	F1007_9181	C5\da1007.c
+time	DATE_VALIDITY_CHECKER	date_valid_default_with_base	F1007_9182	C5\da1007.c
+time	DATE_VALIDITY_CHECKER	compact_date_valid	F1007_9183	C5\da1007.c
+time	DATE_VALIDITY_CHECKER	ordered_compact_date_valid	F1007_9184	C5\da1007.c
+time	DATE_VALIDITY_CHECKER	is_correct_date	F1007_9185	C5\da1007.c
+time	DATE	make	F1008_9186	C5\da1008.c
+time	DATE	make_month_day_year	F1008_9187	C5\da1008.c
+time	DATE	make_day_month_year	F1008_9188	C5\da1008.c
+time	DATE	make_now	F1008_9189	C5\da1008.c
+time	DATE	make_now_utc	F1008_9190	C5\da1008.c
+time	DATE	make_by_days	F1008_9191	C5\da1008.c
+time	DATE	make_from_string_default	F1008_9192	C5\da1008.c
+time	DATE	make_from_string_default_with_base	F1008_9193	C5\da1008.c
+time	DATE	make_from_string	F1008_9194	C5\da1008.c
+time	DATE	make_from_string_with_base	F1008_9195	C5\da1008.c
+time	DATE	make_by_compact_date	F1008_9196	C5\da1008.c
+time	DATE	make_by_ordered_compact_date	F1008_9197	C5\da1008.c
+time	DATE	origin	F1008_9198	C5\da1008.c
+time	DATE	is_less	F1008_9199	C5\da1008.c
+time	DATE	duration	F1008_9200	C5\da1008.c
+time	DATE	days	F1008_9201	C5\da1008.c
+time	DATE	leap_year	F1008_9202	C5\da1008.c
+time	DATE	days_at_month	F1008_9203	C5\da1008.c
+time	DATE	year_day	F1008_9204	C5\da1008.c
+time	DATE	week_of_year	F1008_9205	C5\da1008.c
+time	DATE	days_in_year	F1008_9206	C5\da1008.c
+time	DATE	day_of_the_week	F1008_9207	C5\da1008.c
+time	DATE	day_of_january_1st	F1008_9208	C5\da1008.c
+time	DATE	days_from	F1008_9209	C5\da1008.c
+time	DATE	to_date_time	F1008_9210	C5\da1008.c
+time	DATE	plus	F1008_9211	C5\da1008.c
+time	DATE	add	F1008_9212	C5\da1008.c
+time	DATE	relative_duration	F1008_9213	C5\da1008.c
+time	DATE	day_forth	F1008_9214	C5\da1008.c
+time	DATE	day_back	F1008_9215	C5\da1008.c
+time	DATE	day_add	F1008_9216	C5\da1008.c
+time	DATE	month_forth	F1008_9217	C5\da1008.c
+time	DATE	month_back	F1008_9218	C5\da1008.c
+time	DATE	month_add	F1008_9219	C5\da1008.c
+time	DATE	year_forth	F1008_9220	C5\da1008.c
+time	DATE	year_back	F1008_9221	C5\da1008.c
+time	DATE	year_add	F1008_9222	C5\da1008.c
+time	DATE	year_month_add	F1008_9223	C5\da1008.c
+time	DATE	debug_output	F1008_9224	C5\da1008.c
+time	DATE	out	F1008_9225	C5\da1008.c
+time	DATE	formatted_out	F1008_9226	C5\da1008.c
+time	DATE	days_at_months	F1008_9227	C5\da1008.c
+time	DATE_TIME_VALIDITY_CHECKER	date_time_valid	F1009_9228	C5\da1009.c
+time	DATE_TIME_VALIDITY_CHECKER	date_time_valid_with_base	F1009_9229	C5\da1009.c
+time	DATE_TIME_VALIDITY_CHECKER	is_correct_date_time	F1009_9230	C5\da1009.c
+time	DATE_TIME_PARSER	make	F1010_9231	C5\da1010.c
+time	DATE_TIME_PARSER	source_string	F1010_9232	C5\da1010.c
+time	DATE_TIME_PARSER	year	F1010_9233	C5\da1010.c
+time	DATE_TIME_PARSER	month	F1010_9234	C5\da1010.c
+time	DATE_TIME_PARSER	day	F1010_9235	C5\da1010.c
+time	DATE_TIME_PARSER	hour	F1010_9236	C5\da1010.c
+time	DATE_TIME_PARSER	minute	F1010_9237	C5\da1010.c
+time	DATE_TIME_PARSER	fine_second	F1010_9238	C5\da1010.c
+time	DATE_TIME_PARSER	day_text	F1010_9239	C5\da1010.c
+time	DATE_TIME_PARSER	parsed	F1010_9240	C5\da1010.c
+time	DATE_TIME_PARSER	is_set_up	F1010_9241	C5\da1010.c
+time	DATE_TIME_PARSER	is_date	F1010_9242	C5\da1010.c
+time	DATE_TIME_PARSER	is_time	F1010_9243	C5\da1010.c
+time	DATE_TIME_PARSER	is_date_time	F1010_9244	C5\da1010.c
+time	DATE_TIME_PARSER	is_value_valid	F1010_9245	C5\da1010.c
+time	DATE_TIME_PARSER	set_source_string	F1010_9246	C5\da1010.c
+time	DATE_TIME_PARSER	set_day_array	F1010_9247	C5\da1010.c
+time	DATE_TIME_PARSER	set_month_array	F1010_9248	C5\da1010.c
+time	DATE_TIME_PARSER	set_base_century	F1010_9249	C5\da1010.c
+time	DATE_TIME_PARSER	parse	F1010_9250	C5\da1010.c
+time	DATE_TIME_PARSER	year_val	F1010_9251	C5\da1010.c
+time	DATE_TIME_PARSER	month_val	F1010_9252	C5\da1010.c
+time	DATE_TIME_PARSER	day_val	F1010_9253	C5\da1010.c
+time	DATE_TIME_PARSER	hour_val	F1010_9254	C5\da1010.c
+time	DATE_TIME_PARSER	minute_val	F1010_9255	C5\da1010.c
+time	DATE_TIME_PARSER	fine_second_val	F1010_9256	C5\da1010.c
+time	DATE_TIME_PARSER	day_text_val	F1010_9257	C5\da1010.c
+time	DATE_TIME_PARSER	code	F1010_9258	C5\da1010.c
+time	DATE_TIME_PARSER	months	F1010_9259	C5\da1010.c
+time	DATE_TIME_PARSER	days	F1010_9260	C5\da1010.c
+time	DATE_TIME_PARSER	base_century	F1010_9261	C5\da1010.c
+time	DATE_TIME	make	F1011_9262	C5\da1011.c
+time	DATE_TIME	make_fine	F1011_9263	C5\da1011.c
+time	DATE_TIME	make_by_date_time	F1011_9264	C5\da1011.c
+time	DATE_TIME	make_by_date	F1011_9265	C5\da1011.c
+time	DATE_TIME	make_now	F1011_9266	C5\da1011.c
+time	DATE_TIME	make_now_utc	F1011_9267	C5\da1011.c
+time	DATE_TIME	make_from_string_default	F1011_9268	C5\da1011.c
+time	DATE_TIME	make_from_string_default_with_base	F1011_9269	C5\da1011.c
+time	DATE_TIME	make_from_string	F1011_9270	C5\da1011.c
+time	DATE_TIME	make_from_string_with_base	F1011_9271	C5\da1011.c
+time	DATE_TIME	make_from_epoch	F1011_9272	C5\da1011.c
+time	DATE_TIME	date	F1011_9273	C5\da1011.c
+time	DATE_TIME	time	F1011_9274	C5\da1011.c
+time	DATE_TIME	origin	F1011_9275	C5\da1011.c
+time	DATE_TIME	date_duration	F1011_9276	C5\da1011.c
+time	DATE_TIME	days	F1011_9277	C5\da1011.c
+time	DATE_TIME	time_duration	F1011_9278	C5\da1011.c
+time	DATE_TIME	seconds	F1011_9279	C5\da1011.c
+time	DATE_TIME	is_less	F1011_9280	C5\da1011.c
+time	DATE_TIME	is_equal	F1011_9281	C5\da1011.c
+time	DATE_TIME	duration	F1011_9282	C5\da1011.c
+time	DATE_TIME	set_date	F1011_9283	C5\da1011.c
+time	DATE_TIME	set_time	F1011_9284	C5\da1011.c
+time	DATE_TIME	copy	F1011_9285	C5\da1011.c
+time	DATE_TIME	plus	F1011_9286	C5\da1011.c
+time	DATE_TIME	add	F1011_9287	C5\da1011.c
+time	DATE_TIME	relative_duration	F1011_9288	C5\da1011.c
+time	DATE_TIME	definite_duration	F1011_9289	C5\da1011.c
+time	DATE_TIME	day_add	F1011_9290	C5\da1011.c
+time	DATE_TIME	hour_add	F1011_9291	C5\da1011.c
+time	DATE_TIME	minute_add	F1011_9292	C5\da1011.c
+time	DATE_TIME	second_add	F1011_9293	C5\da1011.c
+time	DATE_TIME	fine_second_add	F1011_9294	C5\da1011.c
+time	DATE_TIME	debug_output	F1011_9295	C5\da1011.c
+time	DATE_TIME	out	F1011_9296	C5\da1011.c
+time	DATE_TIME	formatted_out	F1011_9297	C5\da1011.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	make	F1012_9298	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	parse_trace	F1012_9299	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	code	F1012_9300	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	recipient_name	F1012_9301	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	class_name	F1012_9302	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	tag_name	F1012_9303	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	trace	F1012_9304	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	break_point_slot	F1012_9305	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	last_class_name	F1012_9306	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	last_routine_name	F1012_9307	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	last_break_point_slot	F1012_9308	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	is_trace_valid	F1012_9309	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	is_test_invalid	F1012_9310	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	go_after_next_dash_line	F1012_9311	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	parse_frame	F1012_9312	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	dash_line	F1012_9313	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	class_attribute_name	F1012_9314	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	recipient_attribute_name	F1012_9315	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	tag_attribute_name	F1012_9316	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	trace_attribute_name	F1012_9317	C5\eq1012.c
+testing	EQA_TEST_INVOCATION_EXCEPTION	correct_mismatch	F1012_9318	C5\eq1012.c
+wel	WEL_PROCESS_LAUNCHER	set_block_size	F1016_9319	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	set_environment_variables	F1016_9320	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	run_hidden	F1016_9321	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	spawn	F1016_9322	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	spawn_with_console	F1016_9323	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	launch	F1016_9324	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	launch_and_refresh	F1016_9325	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	terminate_process	F1016_9326	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	last_launch_successful	F1016_9327	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	last_process_result	F1016_9328	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	hidden	F1016_9329	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	environment_variables	F1016_9330	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	spawn_with_flags	F1016_9331	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	environment_variables_as_wel_string	F1016_9332	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	input_pipe	F1016_9333	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	output_pipe	F1016_9334	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	startup_info	F1016_9335	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	process_info	F1016_9336	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	default_block_size	F1016_9337	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	block_size	F1016_9338	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	internal_block_size	F1016_9339	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	cwin_close_handle	F1016_9340	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	cwin_create_process	F1016_9341	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	cwin_wait_for_single_object	F1016_9342	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	cwin_exit_code_process	F1016_9343	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	cwin_wait_object_0	F1016_9344	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	cwin_infinite	F1016_9345	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	cwin_terminate_process	F1016_9346	C5\we1016.c
+wel	WEL_PROCESS_LAUNCHER	cwin_still_active	F1016_9347	C5\we1016.c

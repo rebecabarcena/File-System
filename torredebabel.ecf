@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<system xmlns="http://www.eiffel.com/developers/xml/configuration-1-14-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.eiffel.com/developers/xml/configuration-1-14-0 http://www.eiffel.com/developers/xml/configuration-1-14-0.xsd" name="torredebabel" uuid="B0673929-4589-402B-BE7D-F658EDADB6E2">
+	<target name="torredebabel">
+		<root class="APPLICATION" feature="make"/>
+		<option debug="true" warning="true">
+			<assertions precondition="true" postcondition="true" check="true" invariant="true" loop="true" supplier_precondition="true"/>
+		</option>
+		<setting name="console_application" value="true"/>
+		<precompile name="base_pre" location="$ISE_PRECOMP\base-safe.ecf"/>
+		<library name="base" location="$ISE_LIBRARY\library\base\base-safe.ecf"/>
+		<library name="gobo_structure" location="$ISE_LIBRARY\library\gobo\gobo_structure-safe.ecf"/>
+		<library name="testing" location="$ISE_LIBRARY\library\testing\testing-safe.ecf"/>
+		<cluster name="torredebabel" location=".\" recursive="true">
+			<class_option class="ARCHIVO" profile="false">
+			</class_option>
+			<file_rule>
+				<exclude>/EIFGENs$</exclude>
+				<exclude>/CVS$</exclude>
+				<exclude>/.svn$</exclude>
+			</file_rule>
+			<file_rule>
+				<exclude>^test$</exclude>
+			</file_rule>
+			<file_rule>
+				<exclude>^test$</exclude>
+			</file_rule>
+			<tests name="tests" location="R:\UC\Dise&#241;o SW\Pr&#225;cticas\Torre de Babel\TorreDeBabel\tests\"/>
+		</cluster>
+	</target>
+</system>
